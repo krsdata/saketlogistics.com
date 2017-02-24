@@ -1,0 +1,72 @@
+Return-Path: <acesadmin@icegate.gov.in>
+Delivered-To: pankaj@saketlogistics.com
+Received: from host.infowayindia.in
+	by host.infowayindia.in (Dovecot) with LMTP id Gb1MKUTor1h4JwAARNjblg
+	for <pankaj@saketlogistics.com>; Fri, 24 Feb 2017 08:01:08 +0000
+Return-path: <acesadmin@icegate.gov.in>
+Envelope-to: pankaj@saketlogistics.com
+Delivery-date: Fri, 24 Feb 2017 08:01:08 +0000
+Received: from [121.241.246.165] (port=56696 helo=CDSMTGW01.cbec.gov.in)
+	by host.infowayindia.in with esmtp (Exim 4.88)
+	(envelope-from <acesadmin@icegate.gov.in>)
+	id 1chAoJ-0002bS-9R
+	for pankaj@saketlogistics.com; Fri, 24 Feb 2017 08:01:06 +0000
+X-AuditID: 0a02030a-d59749a00001aad4-3f-58afe813b613
+Received: from dmsgsp01.icegate.gov.in (Unknown_Domain [10.2.8.141])
+	by CDSMTGW01.cbec.gov.in (Symantec Messaging Gateway) with SMTP id B5.A6.43732.318EFA85; Fri, 24 Feb 2017 13:30:19 +0530 (IST)
+Received: from smtp.icegate.gov.in ([10.1.8.53])
+          by pmsgsp02.icegate.gov.in (IBM Domino Release 9.0.1FP7HF92)
+          with ESMTP id 2017022413304638-6551 ;
+          Fri, 24 Feb 2017 13:30:46 +0530 
+Message-ID: <809514624.1487923250025.JavaMail.oracle@pexcap01.cbec.gov.in>
+From: acesadmin@icegate.gov.in
+To: pankaj@saketlogistics.com
+Subject: User Name and Password for new User.
+Mime-Version: 1.0
+X-MIMETrack: Itemize by SMTP Server on PMSGSP02/CBEC(Release 9.0.1FP7HF92 | October 12, 2016) at
+ 02/24/2017 01:30:46 PM,
+	Serialize by smdreal on dmsgms01/CBEC(Release 9.0.1FP7HF92 | October 12, 2016) at
+ 02/24/2017 01:32:39 PM,
+	Serialize complete at 02/24/2017 01:32:39 PM,
+	Serialize by Router on dmsgsp01/CBEC(Release 9.0.1FP7HF92 | October 12, 2016) at
+ 02/24/2017 01:31:54 PM,
+	Serialize complete at 02/24/2017 01:31:54 PM
+X-TNEFEvaluated: 1
+Date: Fri, 24 Feb 2017 13:30:46 +0530
+X-TM-AS-Product-Ver: SMID-5.6.0.3349-7.1.1007-22606.003
+X-TM-AS-Result: No--10.1785-8.0-31-1
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_60838_2004170317.1487923250024"
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFlrIIsWRmVeSWpSXmKPExsXCxcTRqyv8Yn2EwfoHehY/2xYxOjB6nD/5
+	hjWAMaqB0SYxLy+/JLEkVSEltTjZVimgKLMsMblSSSEzxVbJUEmhICcxOTU3Na/EVimxoCA1
+	L0XJjksBA9gAlWXmKaTmJeenZOal2yp5BvvrWliYWuoaKtkpKYRkpCrkphYXJ6anKmhk5iXn
+	lIJUKZQAhRM+sWQcXHOCsWAmS8XPSRcZGxi3MXcxcnJICJhI9K37w9TFyMUhJHCUUeLgixmM
+	EM5VRokvs++xdzFycPAKeEnsmiMNYrIJyEks7tQH6RURkJW4/3oOO4gtLKArMe/hCRaIakGJ
+	vzuEQaZICGxhlmjtP8sGsUtI4vTis2B7WQRUJX4sgYmbSyy/sQ9sk4SAisSZ+ZYgJrNAmMST
+	TfkTGPlmIQydhZCYBdTKLCAvsf3tHGYIW0di59Y7bAsYWVYxijq7BPuGuIcbGOolJ6Um66Xn
+	l+ll5m1iBEcUM9cOxp1bIg4xCnAwKvHwfr21PkKINbGsuDL3EKMEB7OSCG/3M6AQb0piZVVq
+	UX58UWlOavEhRm2gqycyS3En5wOjPa8k3tjAQEmc14t3YoSQQDowarNTUwtSi2CqmTg4pRoY
+	l+Q1LpJoiXx9LKBlJktbwqwnAQlmb8WFDmT5fv5QvkXI80Ss512xt8bHz91T2nzJUSbDIIPn
+	xNxgi0m2uU1xp/52n84Pnu5wsip8p4s8u3NM696cbX/tlAvL+25/v/vLy0jwzOcJLzgXvH+0
+	cUpszI0a9VunFKZqvZnZsOVNR5t244XF2yuUlFiKMxINtZiLihMBBTFAHbQCAAA=
+
+------=_Part_60838_2004170317.1487923250024
+content-transfer-encoding: 7bit
+Content-Type: text/plain; charset=iso-8859-1
+
+
+Dear Sir/Madam, 
+
+This is to inform you that the user has been created.The User Name and the Password for the new user are :  User Name - vyas_79 , Password - ZYgJdd 
+
+Regards, 
+ACES ADMIN 
+
+Disclaimer : This is a system generated mail. Please do not reply. 
+ In case of any issue,  please contact ACES Helpdesk at aces.servicedesk@icegate.gov.in
+
+
+" The message (including the attachment) in this e-mail is intended solely for the addressee(s) and may be confidential. If you have received this message by mistake, please inform the sender immediately via return e-mail and delete the e-mail. Though all reasonable precautions have been taken to ensure that the message and its attachments are free from Malware, Central Board of Excise and Custom does not accept any responsibility for any loss or damage the use of this e-mail may cause."
+
+------=_Part_60838_2004170317.1487923250024--
+

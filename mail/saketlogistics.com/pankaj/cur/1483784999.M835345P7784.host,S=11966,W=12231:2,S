@@ -1,0 +1,265 @@
+Return-Path: <chandra.mahana@dana.com>
+Delivered-To: pankaj@saketlogistics.com
+Received: from host
+	by host.infowayindia.in (Dovecot) with LMTP id moF/KyfDcFhoHgAARNjblg
+	for <pankaj@saketlogistics.com>; Sat, 07 Jan 2017 10:29:59 +0000
+Return-path: <chandra.mahana@dana.com>
+Envelope-to: pankaj@saketlogistics.com
+Delivery-date: Sat, 07 Jan 2017 10:29:59 +0000
+Received: from mail1.bemta8.messagelabs.com ([216.82.243.203]:21685)
+	by host with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <chandra.mahana@dana.com>)
+	id 1cPoG6-000215-Ol
+	for pankaj@saketlogistics.com; Sat, 07 Jan 2017 10:29:59 +0000
+Received: from [216.82.241.131] by server-11.bemta-8.messagelabs.com id 6E/0A-02076-DF2C0785; Sat, 07 Jan 2017 10:29:17 +0000
+X-Brightmail-Tracker: H4sIAAAAAAAAA1WSfUgTcRjH+2278zRX52n5OFbUHETlhisCK6I
+  MivwjiOgPlTJvdW3TvbGbY0HRUdGLFWb2pma+hVZakamUWb5GaMlM+sO0lHTia2VBLKmku918
+  6f763PP9Pm8/HkJKPcYVBON2Mg4rbVbhIbLuFTW1mr/N9sTYh20RcVNnStA2tMvTNoHtQcmYy
+  aq3uVMx49WCK1I7t9p9O+u5jEOT0ZkomJCRp6Vw63tMJgohKDJbAtV9Pkz8aUFwdmA6SHDhpA
+  7uDd9AAkeQm2FgqtHP4eQOaG3yBuI74fK99wFeB+NZQzwTfAc1XLiUIoTl5H64e+omLjBFxkP
+  5RIe/fDC5HaZLv/hTEbkUfO2VEoGlZCT0eAv9DCQJd+o9UpGXwOjgNCb6k2C8tgAXWgG5Ejqr
+  A5bd8PrJBD7D78oq/GsBWY9B/5v8QM10eDdYiIl8AJ419SPRlCOBnmtDAUEJ2bm9AaEehw+ln
+  4PEDVKhsLFcIj6EAj69Px94FCWMfHyBCRNJSStwnRni8mHQluuViTWjoKHah11G6rx5e+bNZe
+  TNyxAtMVD0/Acu8looKx6XzvDbxkHJ/HgRCrqPVrGMw8U4NOu1eofJYHRaaJNZo4uN01oYlqU
+  NjJnWs9pDNksV4s9nAf89RQ3T25tRFCFRLZHHJ9sTqUV62+GjRpo1HnRkmBm2GSkJQgXyziZe
+  C3MwBsZ9xGTmb3BGBiJUFSEP4a+QkrN22sKaDKLUjjTE9czKIQkls9qsjCJS7hNqkILJmGGdL
+  TFzyV1omSJcjvihqFA747CYnP/rYyiSQKpw+WKhVajJ6pztNMYPIeGHCEuwCUM46TlJwaGK9a
+  8fnfzVvUV/pcrgUmblLGbVLw+Ptrg6SnMv+vKTuUJs7aZde7+rFw3UQMrPzpzy3x7XJNfyAC/
+  bN0J90Sk5T8jWPmuv7tUxqpHN1nVVRkzVeFXDcRsTSs5FN7SmJcW3H9+gPrL8/J/krycyubTJ
+  ilfF6XVH1XULtd96w1qHVTLWSOvWSB0s/Q88gVL2xAMAAA==
+X-Env-Sender: chandra.mahana@dana.com
+X-Msg-Ref: server-7.tower-54.messagelabs.com!1483784956!139282854!1
+X-Originating-IP: [216.32.181.182]
+X-StarScan-Received:
+X-StarScan-Version: 9.1.1; banners=-,-,-
+X-VirusChecked: Checked
+Received: (qmail 54774 invoked from network); 7 Jan 2017 10:29:17 -0000
+Received: from mail-by2nam01lp0182.outbound.protection.outlook.com (HELO NAM01-BY2-obe.outbound.protection.outlook.com) (216.32.181.182)
+  by server-7.tower-54.messagelabs.com with AES256-SHA256 encrypted SMTP; 7 Jan 2017 10:29:17 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=dananet.onmicrosoft.com; s=selector1-dana-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=RY00yI2svyW+K/1MGxy1g8SkfgYBqaHBZdUg4Fb+IPc=;
+ b=hwvopKmDgTN5NFYSjiea7SXejR7EixEq3XWjEdexw6MU1UxJ5IZlJPw/9gu7ydWBMi31gC03EtlwGL+3Pc30AwiqnvIFfJERaLyuwDRow7IdJz+1xqc2Kc3LvXGp3OH46G2YFWR/pboVGzq5hoGgGOPTR+joR80ylJgWUBDC8sE=
+Received: from BLUPR02MB1186.namprd02.prod.outlook.com (10.163.80.140) by
+ BLUPR02MB1185.namprd02.prod.outlook.com (10.163.80.14) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.11; Sat, 7 Jan 2017 10:29:14 +0000
+Received: from BLUPR02MB1186.namprd02.prod.outlook.com ([10.163.80.140]) by
+ BLUPR02MB1186.namprd02.prod.outlook.com ([10.163.80.140]) with mapi id
+ 15.01.0803.021; Sat, 7 Jan 2017 10:29:13 +0000
+From: "Mahana, Chandra" <chandra.mahana@dana.com>
+To: "pankaj@saketlogistics.com" <pankaj@saketlogistics.com>
+Subject: Re: [EXTERNAL] Transportation proposal from  saket logistics
+Thread-Topic: [EXTERNAL] Transportation proposal from  saket logistics
+Thread-Index: AQHSaM6dioLYFeLusU+cb0re53tb6aEszoti
+Date: Sat, 7 Jan 2017 10:29:13 +0000
+Message-ID: <BLUPR02MB11863DD306DC0C3BD5591455E8620@BLUPR02MB1186.namprd02.prod.outlook.com>
+References: <313968bc0ea70f111ec413bd1e36864a@saketlogistics.com>
+In-Reply-To: <313968bc0ea70f111ec413bd1e36864a@saketlogistics.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [132.245.4.133]
+x-ms-office365-filtering-correlation-id: 64b73863-f65b-45c9-584d-08d436e806ae
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001);SRVR:BLUPR02MB1185;
+x-microsoft-exchange-diagnostics: 1;BLUPR02MB1185;7:U8m5qoIR2d6Bwk3wOZMx/8zsdWBA5M1f8s69G6IqXz6YX8GVeCXKtteSBZ6g7Hq//uI2QwOggdxPQhHr1cg2Q1qub8AHfjZdNysjNiFqu0MoXLW/Y2AR0SOtZd9XxEj/kQc7LV6uf5k9Q//NO3s7zeW0CnxVp4W3MEzVvN+D1ja1ZC8P5+8hA8r4m/8De0Lf8+ClD9BGFc6MhepnBGKNnJOywMh8zse6IOYYJYYPGACOLEkBsAsU8cUYyPL9j9zW0aejYCEYc9f1HpNFPdhth5aNsnBhIXugbFJ4v0G2bHVsEYPjnQQvrCn/G/kKpPpFoZYWQ4ojtTNWZS/IoHKuiZWir5Gx/np6my1NJaqGGTbHBojjgoZoIGIs2b8OKkZaGdqRHSuShJgbj9wqk0xT2lKHqm6pJYaAeAIUcXBXSLV0vXLFVZgZvXuVWFlvbALp6fEke0bz82JeL3Qp7ZTJGA==;20:8mgRqUYq4FXTkYgFHtyMYAUZnoq8WrRINDcbzOk17R+5aPBhSX6C5uwz6reSnsG3lLRwuW/w5fwhMBTHOMJZOkFnw6BrRMYVHs7Ur/pO7L9UnqCmQ8WNX8WMdD1VLwHJ8P7UYZAUgPU+Q7I5corqZcFQfQ6qJ5hTZAUuuiTAjX8=
+x-microsoft-antispam-prvs: <BLUPR02MB1185B821D18AEEB2660A7BA6E8620@BLUPR02MB1185.namprd02.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(158342451672863)(234834767909547)(106671072334238);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040375)(601004)(2401047)(5005006)(8121501046)(10201501046)(3002001)(6055026)(6041248)(20161123555025)(20161123560025)(20161123564025)(20161123562025)(6072148);SRVR:BLUPR02MB1185;BCL:0;PCL:0;RULEID:;SRVR:BLUPR02MB1185;
+x-forefront-prvs: 018093A9B5
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(7916002)(39450400003)(39840400002)(39850400002)(39410400002)(199003)(189002)(377454003)(2900100001)(5640700003)(54356999)(110136003)(6306002)(1730700003)(25786008)(6436002)(606005)(7696004)(229853002)(6116002)(2501003)(3280700002)(189998001)(102836003)(2906002)(3846002)(38730400001)(66066001)(9686003)(86362001)(106356001)(81156014)(99286003)(450100001)(101416001)(106116001)(8936002)(77096006)(7736002)(74316002)(2950100002)(7906003)(2351001)(76176999)(50986999)(6506006)(105586002)(561944003)(107886002)(5890100001)(33656002)(92566002)(97736004)(55016002)(6916009)(81166006)(3660700001)(54896002)(122556002)(8676002)(5660300001)(68736007);DIR:OUT;SFP:1102;SCL:1;SRVR:BLUPR02MB1185;H:BLUPR02MB1186.namprd02.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;A:1;MX:1;LANG:en;
+received-spf: None (protection.outlook.com: dana.com does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BLUPR02MB11863DD306DC0C3BD5591455E8620BLUPR02MB1186namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: dana.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 07 Jan 2017 10:29:13.5311
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: f687117c-26c0-40a3-bc97-5df90338b8ba
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR02MB1185
+
+--_000_BLUPR02MB11863DD306DC0C3BD5591455E8620BLUPR02MB1186namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Dear sir,
+
+
+Thanks  for your of shareing information ,i share this information with my =
+company.
+
+
+i will give you next updtaed shortly.
+
+
+
+
+         Thanks
+
+Chandra Mahana
+
+    SIPL Satara
+
+Mob - 9604707929
+
+
+________________________________
+From: pankaj@saketlogistics.com <pankaj@saketlogistics.com>
+Sent: Saturday, January 7, 2017 3:42:45 PM
+To: Mahana, Chandra
+Subject: [EXTERNAL] Transportation proposal from saket logistics
+
+Dear sir,
+
+
+           Please find the attachment. We are sending our company
+profile.We are Waiting For your positive response.
+
+
+
+
+
+
+Thanks & Regards
+
+
+Saket Logistics
+
+93296-96941
+
+________________________________
+
+This e-mail, and any attachments, is intended solely for use by the address=
+ee(s) named above. It may contain the confidential or proprietary informati=
+on of Dana Incorporated, its subsidiaries, affiliates or business partners.=
+ If you are not the intended recipient of this e-mail or are an unauthorize=
+d recipient of the information, you are hereby notified that any disseminat=
+ion, distribution or copying of this e-mail or any attachments, is strictly=
+ prohibited. If you have received this e-mail in error, please immediately =
+notify the sender by reply e-mail and permanently delete the original and a=
+ny copies or printouts.
+
+Computer viruses can be transmitted via email. The recipient should check t=
+his e-mail and any attachments for the presence of viruses. Dana Incorporat=
+ed accepts no liability for any damage caused by any virus transmitted by t=
+his e-mail.
+
+English, Fran?ais, Espa?ol, Deutsch, Italiano, Portugu?s:
+http://www.dana.com/corporate-pages/Email
+________________________________
+
+--_000_BLUPR02MB11863DD306DC0C3BD5591455E8620BLUPR02MB1186namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<meta content=3D"text/html; charset=3DUTF-8">
+<style type=3D"text/css" style=3D"">
+<!--
+p
+	{margin-top:0;
+	margin-bottom:0}
+-->
+</style>
+<div dir=3D"ltr">
+<div id=3D"x_divtagdefaultwrapper" dir=3D"ltr" style=3D"font-size:12pt; col=
+or:#000000; font-family:Calibri,Arial,Helvetica,sans-serif">
+<p>Dear sir,</p>
+<p><br>
+</p>
+<p>Thanks &nbsp;for your of shareing information ,i share this information =
+with my company.</p>
+<p><br>
+</p>
+<p>i will give you next updtaed shortly.</p>
+<p><br>
+</p>
+<p><br>
+</p>
+<p><br>
+</p>
+<div id=3D"x_Signature">
+<div id=3D"x_divtagdefaultwrapper" style=3D"font-size:12pt; color:#000000; =
+background-color:#FFFFFF; font-family:Calibri,Arial,Helvetica,sans-serif">
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Thanks</p>
+<p>Chandra Mahana</p>
+<p>&nbsp; &nbsp; SIPL Satara</p>
+<p>Mob - 9604707929</p>
+<p><br>
+</p>
+</div>
+</div>
+</div>
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"x_divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" =
+color=3D"#000000" style=3D"font-size:11pt"><b>From:</b> pankaj@saketlogisti=
+cs.com &lt;pankaj@saketlogistics.com&gt;<br>
+<b>Sent:</b> Saturday, January 7, 2017 3:42:45 PM<br>
+<b>To:</b> Mahana, Chandra<br>
+<b>Subject:</b> [EXTERNAL] Transportation proposal from saket logistics</fo=
+nt>
+<div>&nbsp;</div>
+</div>
+</div>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Dear sir,<br>
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please find th=
+e attachment. We are sending our company <br>
+profile.We are Waiting For your positive response.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Thanks &amp; Regards<br>
+<br>
+<br>
+Saket Logistics<br>
+<br>
+93296-96941</div>
+</span></font>
+<pre></pre>
+<div style=3D"font-family:arial;font-size:8pt;">
+<hr>
+<p>This e-mail, and any attachments, is intended solely for use by the addr=
+essee(s) named above. It may contain the confidential or proprietary inform=
+ation of Dana Incorporated, its subsidiaries, affiliates or business partne=
+rs. If you are not the intended
+ recipient of this e-mail or are an unauthorized recipient of the informati=
+on, you are hereby notified that any dissemination, distribution or copying=
+ of this e-mail or any attachments, is strictly prohibited. If you have rec=
+eived this e-mail in error, please
+ immediately notify the sender by reply e-mail and permanently delete the o=
+riginal and any copies or printouts.</p>
+<p>Computer viruses can be transmitted via email. The recipient should chec=
+k this e-mail and any attachments for the presence of viruses. Dana Incorpo=
+rated accepts no liability for any damage caused by any virus transmitted b=
+y this e-mail.</p>
+English, Fran&ccedil;ais, Espa&ntilde;ol, Deutsch, Italiano, Portugu&ecirc;=
+s:<br>
+<a href=3D"http://www.dana.com/corporate-pages/Email">http://www.dana.com/c=
+orporate-pages/Email</a>
+<hr>
+</div>
+</body>
+</html>
+
+--_000_BLUPR02MB11863DD306DC0C3BD5591455E8620BLUPR02MB1186namp_--

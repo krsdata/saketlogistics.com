@@ -1,0 +1,140 @@
+Return-Path: <patidar576@gmail.com>
+Delivered-To: s.malviya@saketlogistics.com
+Received: from host.infowayindia.in
+	by host.infowayindia.in (Dovecot) with LMTP id wX+sE2l9eFhkTwAARNjblg
+	for <s.malviya@saketlogistics.com>; Fri, 13 Jan 2017 07:10:33 +0000
+Return-path: <patidar576@gmail.com>
+Envelope-to: s.malviya@saketlogistics.com
+Delivery-date: Fri, 13 Jan 2017 07:10:33 +0000
+Received: from mail-oi0-f54.google.com ([209.85.218.54]:33110)
+	by host.infowayindia.in with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <patidar576@gmail.com>)
+	id 1cRw0O-0005Ih-Vp
+	for s.malviya@saketlogistics.com; Fri, 13 Jan 2017 07:10:33 +0000
+Received: by mail-oi0-f54.google.com with SMTP id w204so49135943oiw.0
+        for <s.malviya@saketlogistics.com>; Thu, 12 Jan 2017 23:10:12 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=RRItW+i6iy9ooD9iDNyKli6bwXy7RbTnfkLRjFEgJ3Y=;
+        b=G3WFccs9hE+9jnHwsieU1NEWc2pGMsYOX8D3X3mZk+L7ITdbF0ZN2q3FgZmta658Uv
+         55soEH1Cet7Hl2FDJUEsWMWK5+bMrGUfTeDEfD46PdY2ctYaijGh/us4DgvFdSq+q9CV
+         VzvnI+ujOr5Cp9pC3bD0+3LhMhYdywCcpwEttBJ/91UBGIp4BfO4sxrr193uyeCpc/wL
+         uvb9vh7Owm8kBTd0QjQQ10oQQwlUYhuiG+7vfgBQ/bfOAPFe05uttJHvi50m+YAPMs2/
+         NIeYm3jqRlnlsxADRSGV50TqXJxsfhtj1wNzUm5Gg9G9Bgpwhb/VgPIOBOT6fNGqpClL
+         xTZw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=RRItW+i6iy9ooD9iDNyKli6bwXy7RbTnfkLRjFEgJ3Y=;
+        b=Qaa+xVmub4y8sGxmqma4tVb/BlqebeFt/+H/PLs4PI8iGSSqwPfTs2erU79H/ceVPV
+         YmL/2OEYUDUZwUXJeiwCRcLM9yWDDj21K93NbkkOw8qiTTlK7F2zNrbEcnsJ0QcXqtva
+         VIAeP96sI9+11839MZXDtCPhpKcg4VDdBHggBpKFnp012zexQ11DbWFQISeTKwSjxau/
+         bl5lsvYoSejQDgVDNyyC6zzNMybchwYfyZu+AySbQe/xd1mCoit9NfUju5p9hgQOnmhs
+         n1ESoN48XZFewlR5fGMgIJHvJbaPEcUdmlSfqcIIz08M2349UAsejJV/vARiblyb/lBb
+         VFiA==
+X-Gm-Message-State: AIkVDXL5iDgPDEGKnmw7JxLIYAuE27PAwbB9SAeBhXVqy0QZk1wUwI24NBGHcoho3GnN8bhzLJ4cw8AvPVXFGg==
+X-Received: by 10.202.72.23 with SMTP id v23mr6392113oia.116.1484291391226;
+ Thu, 12 Jan 2017 23:09:51 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.157.16.70 with HTTP; Thu, 12 Jan 2017 23:09:50 -0800 (PST)
+From: rajesh patidar <patidar576@gmail.com>
+Date: Fri, 13 Jan 2017 12:39:50 +0530
+Message-ID: <CAHw+KpoR+wsBoyWYJV1AsNptY0Gf8pX-9pM7PFViak5bU2p+sw@mail.gmail.com>
+Subject: man track qut.
+To: s.malviya@saketlogistics.com
+Content-Type: multipart/mixed; boundary=001a113db1761e27000545f48596
+
+--001a113db1761e27000545f48596
+Content-Type: multipart/alternative; boundary=001a113db1761e26fa0545f48594
+
+--001a113db1761e26fa0545f48594
+Content-Type: text/plain; charset=UTF-8
+
+Dear sir
+
+
+
+
+
+
+Thanks & Regards
+Rajesh Patidar
+9826715380
+
+--001a113db1761e26fa0545f48594
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Dear sir<div><div><br></div><div><br></div><div><br></div>=
+<div><br></div><div><br></div><div><br></div><div><span style=3D"font-size:=
+12.8px">Thanks &amp; Regards</span><br></div></div><div><span style=3D"font=
+-size:12.8px">Rajesh Patidar</span></div><div><span style=3D"font-size:12.8=
+px">9826715380</span></div><div><span style=3D"font-size:12.8px"><br></span=
+></div></div>
+
+--001a113db1761e26fa0545f48594--
+--001a113db1761e27000545f48596
+Content-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document; 
+	name="Man Track.docx"
+Content-Disposition: attachment; filename="Man Track.docx"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_ixvgscwt0
+
+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
+--001a113db1761e27000545f48596--

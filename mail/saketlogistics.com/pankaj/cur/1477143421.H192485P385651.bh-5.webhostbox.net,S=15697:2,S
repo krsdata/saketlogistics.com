@@ -1,0 +1,352 @@
+Return-path: <vivek.verma@lendingkart.com>
+Envelope-to: pankaj@saketlogistics.com
+Delivery-date: Sat, 22 Oct 2016 13:37:01 +0000
+Received: from mail-pu1apc01on0072.outbound.protection.outlook.com ([104.47.126.72]:17752 helo=APC01-PU1-obe.outbound.protection.outlook.com)
+	by bh-5.webhostbox.net with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.86_1)
+	(envelope-from <vivek.verma@lendingkart.com>)
+	id 1bxwTr-001c3u-4n
+	for pankaj@saketlogistics.com; Sat, 22 Oct 2016 13:37:01 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=lendingkarttech.onmicrosoft.com; s=selector1-lendingkart-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=uveBrwL71+JsQJIMVbm8qexmPHJqqniE3uaI4N9OAB0=;
+ b=oBk60XElEcDd2UTpQEoSd4QKEVSty18D4zfVjPXAeRjZ79IqWoX/7x5bsrvP1zTRdQjw5x4d2ioW5Fb5lDMEp8ngyH7321txecFKfgMChnuEVeQDkNCpopfTg9qDgsRF/0YBjaqVkFS5sn1ACkvO96/slWJrxEpo+tw7qCFVXlk=
+Received: from KL1PR01MB0838.apcprd01.prod.exchangelabs.com (10.169.25.16) by
+ KL1PR01MB0758.apcprd01.prod.exchangelabs.com (10.165.16.144) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.639.5; Sat, 22 Oct
+ 2016 13:36:18 +0000
+Received: from KL1PR01MB0838.apcprd01.prod.exchangelabs.com ([10.169.25.16])
+ by KL1PR01MB0838.apcprd01.prod.exchangelabs.com ([10.169.25.16]) with mapi id
+ 15.01.0669.021; Sat, 22 Oct 2016 13:36:18 +0000
+From: Vivek Verma <vivek.verma@lendingkart.com>
+To: "pankaj@saketlogistics.com" <pankaj@saketlogistics.com>
+CC: Lead Tracker <leadtracker@lendingkart.com>, Rahul Sanklecha
+	<rahul.sanklecha@lendingkart.com>
+Subject: Re: Proposed Terms & Conditions : SAKET LOGISTICS
+Thread-Topic: Proposed Terms & Conditions : SAKET LOGISTICS
+Thread-Index: AQHSKtvcio1Z6C+zeka55eSxDFSOuqCy2gUAgAGigUQ=
+Date: Sat, 22 Oct 2016 13:36:18 +0000
+Message-ID: <KL1PR01MB08384677A8679CC6CCBA6EA5FED70@KL1PR01MB0838.apcprd01.prod.exchangelabs.com>
+References: <KL1PR01MB0838B8FD1C16F23756C721DEFED50@KL1PR01MB0838.apcprd01.prod.exchangelabs.com>,<12bf57c70afea24d0193541cfe7bf694@saketlogistics.com>
+In-Reply-To: <12bf57c70afea24d0193541cfe7bf694@saketlogistics.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=vivek.verma@lendingkart.com; 
+x-originating-ip: [25.165.15.4]
+x-ms-office365-filtering-correlation-id: 3b945349-4bf9-4d7d-a5c6-08d3fa806740
+x-microsoft-exchange-diagnostics: 1;KL1PR01MB0758;6:d0PHvDyE8g5WmPeEIyC2Y3knrNU+u7DKtd31DQKcElSyqzzCH4QxT2WpzeajBA82a1OBIgQFfccIGzIHoOJ1jJKxygVjXZmaaQT6SaihHeK//rUamRDmmI2+97Z+xmzgZWwVtvyW59WVu/sqvuU1PRrt7A16FLR0RkvKsQ+u9Nd8TfU2bHgtjg9GYAHMg0wmsfXezPV9m3eS6KWFd3C4Dc1Kgs/3+pCZzhtGCCT34U30IcVZU9cYdqof1tmZa75jX/t+FjBg07Qvxx3rOdwV8wk4bz4fYK/FIp+sVmUNPF4=;5:oe+N9YOdYIEg1HzZWuZJZyRkbcLqtqhdPVM02gJMJEkSa66ur9psxu2WuHIMmi3R0O1YVOqF0FTfiTQIn10MSWV/FsQSMGLhu8zjaZOtZyOpwpBsO9Suz8LU0K8P1nl005ZcWKHdWbmeYVeQ9DqA2Q==;24:rVdReydV9lgkf5B5u8Ser8Ff/RhYMjGP4vQKr02Vj4bnr1IeAreu0kkz4EtnIh5XBUr580rfPUd4U5vg9Md95Z+w5B7gYliE7u+fbaaYKhk=;7:mFWzBAQnCKFHigyK2w2FvhC1dgkDCrMcYZETAGWhQ2r0aeMr83vdvLU5JrWR4oiJNbIhwDrjvNcxUuTmkyI7JKk/Yz6vcTgygqZVtCoTtVwCjASdiDvfH8w9Do3XpuHFGaJ1D61ls6gU4zrOF5sWmVQm0wTfW3Q3Gj84TQoqAC8q9UQhlptqzz1Gup1B5WwsYOoUzYu5FXXiTMUNWhUEyGFqxL3fiFBaVD1qudf7kiectQFt1Mg1uegNP/jDBuZGZ0TGCGuFs7Dd4ZVmCFN2u7VajiBr+WNn/l5Gy3ZaYjinxCom1lFNyv5kbTaj1fvIPY2y5BWs4EXxkvmJlti23A==
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:KL1PR01MB0758;
+x-microsoft-antispam-prvs: <KL1PR01MB0758A882D0B8AEB209AD434FFED70@KL1PR01MB0758.apcprd01.prod.exchangelabs.com>
+x-exchange-antispam-report-test: UriScan:(203790808753936)(266611908612381);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040176)(601004)(2401047)(5005006)(8121501046)(10201501046)(3002001);SRVR:KL1PR01MB0758;BCL:0;PCL:0;RULEID:;SRVR:KL1PR01MB0758;
+x-forefront-prvs: 01039C93E4
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(7916002)(377454003)(22444005)(189002)(199003)(24424003)(377424004)(24454002)(2906002)(16601075003)(102836003)(3846002)(5640700001)(586003)(10400500002)(66066001)(19627405001)(7696004)(106356001)(105586002)(4326007)(106116001)(110136003)(7846002)(7736002)(19617315012)(50986999)(6116002)(18206015028)(74316002)(7906003)(54356999)(2351001)(101416001)(76176999)(122556002)(19580405001)(19580395003)(87936001)(189998001)(15974865002)(3660700001)(6916009)(2950100002)(9686002)(107886002)(16236675004)(6606003)(33656002)(3280700002)(8676002)(92566002)(4001430100002)(81166006)(81156014)(86362001)(1730700003)(2900100001)(11100500001)(2501003)(77096005)(5002640100001)(3900700001)(450100001)(8936002)(68736007)(19625215002)(4001150100001)(97736004)(15975445007)(5660300001)(7099028);DIR:OUT;SFP:1101;SCL:1;SRVR:KL1PR01MB0758;H:KL1PR01MB0838.apcprd01.prod.exchangelabs.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+received-spf: None (protection.outlook.com: lendingkart.com does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_KL1PR01MB08384677A8679CC6CCBA6EA5FED70KL1PR01MB0838apcp_"
+MIME-Version: 1.0
+X-OriginatorOrg: lendingkart.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 22 Oct 2016 13:36:18.3659
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 30f0782d-3f7b-4038-937a-623e0c89d799
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: KL1PR01MB0758
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_MSPIKE_H3=-0.01, RCVD_IN_MSPIKE_WL=-0.01, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.1 cv=QNnEPF/L c=1 sm=0 tr=0 a=E_4k8GDRkKcA:10 a=gta0SlTW4hIA:10 a=CH0kA5CcgfcA:10 a=XueR9yfmzffeDl-Sj_QA:9 a=Lq6yZwFYuShgUQ9Z:21 a=3p89ccAuZK7DQ8ai:21 a=wPNLvfGTeEIA:10 a=pc6K2y5lvABP1IJVE-gA:9 a=0omA-JxC1moG-fcG:21 a=phYBgeCiJi86TamT:21 a=kOmtshOjrUKSEMVu:21 a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10 a=chvjmp5bT-K0Np4W8Gpx:22
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: lendingkart.com]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [104.47.126.72 listed in list.dnswl.org]
+ * -0.0 RCVD_IN_MSPIKE_H3 RBL: Good reputation (+3)
+ *      [104.47.126.72 listed in wl.mailspike.net]
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.0 RCVD_IN_MSPIKE_WL Mailspike good senders
+X-Spam-Flag: NO
+
+--_000_KL1PR01MB08384677A8679CC6CCBA6EA5FED70KL1PR01MB0838apcp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear sir,
+
+
+Please find sign verification form and get printed on your letter head.
+
+
+Vivek Varma | Credit Analyst
+Ph No: 079 49036759
+
+ 301-302 PRIMATE, OPP MOTHER MILK PALACE, NEAR JUDGES' BUNGLOW CROSS    ROA=
+DS, BODAKDEV, AHMEDABAD - 380054 , GUJARAT.
+
+Vivek.verma@lendingkart.com | www.lendingkart.com
+
+
+
+________________________________
+From: pankaj@saketlogistics.com <pankaj@saketlogistics.com>
+Sent: Friday, October 21, 2016 6:07 PM
+To: Vivek Verma
+Cc: Lead Tracker; Rahul Sanklecha; credit; loanspecialist
+Subject: Re: Proposed Terms & Conditions : SAKET LOGISTICS
+
+
+Dear sir,
+
+            WE are agried with your terms and condition.we are provide
+chq and pan card and reference number.
+
+
+
+
+
+
+Thanks & Regards
+
+
+Pankaj vyas
+
+
+
+Reference  :
+
+1) Chandrakant yadav : 91791-30821
+2) Ranvir Singh      : 97137-48075
+
+
+On 2016-10-20 14:14, Vivek Verma wrote:
+> Dear Sir,
+>
+>  As per our conversation over phone, below is the final proposed terms
+> and conditions for Working Capital Loan so please confirm this mail
+> ASAP.
+>
+>  Loan Amount: Rs. 600,000/-
+>
+>  Disbursement Amount : Rs. 593,100 /- (After deducting one time
+> Processing Fees + Service Tax:15 % on Processing fees) Rs. 6,900 /-.
+>
+>  Interest Rate: 2.0 % Flat per month
+>
+> Duration: 6 Months
+>
+>  Repayment: By 6 equal Monthly installments of Rs. 112,000 /-
+>
+>  Late payment charges: Rs. 600 per day/ per installment.
+>
+> Please confirm so that we can go ahead with disbursement procedure.
+>
+> _IN CASE IF YOU AGREE WITH THE TERMS AND CONDITIONS, PLEASE PROVIDE
+> FOLLOWING DETAILS__ IN REPLY OF THIS MAIL ALONG WITH YOUR
+> CONFIRMATION__:_
+>
+>        * Scan copy of CANCELLED CHEQUE OF  UNION BANK (Account no.:
+> *******5462)
+>        * Photocopy of PAN and Adhar Card
+>        * Name number and address of 2 References
+>
+>  Vivek Varma | Credit Analyst
+>
+>  Ph No: 079 49036759
+>
+>  301-302 PRIMATE, OPP MOTHER MILK PALACE, NEAR JUDGES' BUNGLOW CROSS
+>    ROADS, BODAKDEV, AHMEDABAD - 380054 , GUJARAT.
+>
+>  Vivek.verma@lendingkart.com | www.lendingkart.com<http://www.lendingkart=
+.com>
+
+--_000_KL1PR01MB08384677A8679CC6CCBA6EA5FED70KL1PR01MB0838apcp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;">
+<p>Dear sir,</p>
+<p><br>
+</p>
+<p>Please find sign verification form and get&nbsp;printed on your letter h=
+ead.</p>
+<p><br>
+</p>
+<div id=3D"Signature">
+<div id=3D"divtagdefaultwrapper" style=3D"color:rgb(0,0,0); font-family:Cal=
+ibri,Arial,Helvetica,sans-serif; background-color:rgb(255,255,255)">
+<p style=3D"font-size:12pt"></p>
+<div style=3D"font-size:16px; font-family:Calibri,Arial,Helvetica,sans-seri=
+f; margin-top:0px; margin-bottom:0px">
+<font face=3D"Arial,sans-serif" size=3D"2" color=3D"#222222"><font face=3D"=
+Arial,sans-serif" size=3D"3" color=3D"blue"><span style=3D"font-size:12pt">=
+Vivek Varma&nbsp;</span></font><font face=3D"Arial,sans-serif" size=3D"3"><=
+span style=3D"font-size:12pt">| Credit Analyst</span></font><font size=3D"1=
+"><span style=3D"font-size:12.78px"><br>
+</span></font></font></div>
+<div style=3D"font-family:Calibri,Arial,Helvetica,sans-serif; margin-top:0p=
+x; margin-bottom:0px">
+<font face=3D"Arial,sans-serif" color=3D"#222222"><font face=3D"Arial,sans-=
+serif" size=3D"1" style=3D"font-size:16px"><span style=3D"font-size:12.67px=
+">Ph No:&nbsp;</span></font><img width=3D"0" height=3D"0" style=3D"font-siz=
+e: 16px; -webkit-user-select: none;" src=3D"https://outlook.office.com/owa/=
+?realm=3Dlendingkart.com&amp;ver=3D16.925.12.1802644&amp;cver=3D16.935.9.18=
+06395&amp;cf=3D1&amp;vC=3D0&amp;forceBO=3Dfalse&amp;retryCount=3D3"><span s=
+tyle=3D"font-size:12.67px">079
+ 49036759</span><font face=3D"Arial,sans-serif" size=3D"3" style=3D"font-si=
+ze:16px"><span style=3D"font-size:12pt"><br>
+</span></font></font></div>
+<div style=3D"font-size:16px; font-family:Calibri,Arial,Helvetica,sans-seri=
+f; margin-top:0px; margin-bottom:0px">
+<font face=3D"Arial,sans-serif" size=3D"2" color=3D"#222222"><font face=3D"=
+Arial,sans-serif" size=3D"1"><span style=3D"font-size:12.67px"><br>
+</span></font></font></div>
+<div style=3D"font-size:16px; font-family:Calibri,Arial,Helvetica,sans-seri=
+f; margin-top:0px; margin-bottom:0px">
+<font face=3D"Arial,sans-serif" size=3D"2" color=3D"#222222"><font face=3D"=
+Arial,sans-serif" size=3D"1"><span style=3D"font-size:3pt">&nbsp;</span></f=
+ont><font face=3D"Verdana,sans-serif" color=3D"#9900FF"><b>301-302 PRIMATE,=
+ OPP MOTHER MILK PALACE,</b></font><font face=3D"Arial,sans-serif" color=3D=
+"#9900FF">&nbsp;</font><font face=3D"Verdana,sans-serif" color=3D"#9900FF">=
+<b>NEAR
+ JUDGES&#8217; BUNGLOW CROSS &nbsp; &nbsp;ROADS,&nbsp;</b></font><font face=
+=3D"Verdana,sans-serif" color=3D"#9900FF"><b>BODAKDEV, AHMEDABAD &#8211; 38=
+0054&nbsp;, GUJARAT.</b></font></font></div>
+<div style=3D"font-size:16px; font-family:Calibri,Arial,Helvetica,sans-seri=
+f; margin-top:0px; margin-bottom:0px">
+<font face=3D"Arial,sans-serif" size=3D"2" color=3D"#222222"><font face=3D"=
+Verdana,sans-serif" color=3D"#9900FF"><b><br>
+</b></font></font></div>
+<div style=3D"font-size:16px; font-family:Calibri,Arial,Helvetica,sans-seri=
+f; margin-top:0px; margin-bottom:0px">
+<font face=3D"Arial,sans-serif"><font face=3D"Arial,sans-serif"><span style=
+=3D"font-size:12.78px">Vivek.verma@lendingkart.com</span><span style=3D"fon=
+t-size:10pt">&nbsp;|&nbsp;<font color=3D"#1155cc">www.lendingkart.com</font=
+></span></font></font></div>
+<br>
+<p style=3D"font-size:12pt"></p>
+</div>
+</div>
+<br>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<div>
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"x_divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" =
+color=3D"#000000" style=3D"font-size:11pt"><b>From:</b> pankaj@saketlogisti=
+cs.com &lt;pankaj@saketlogistics.com&gt;<br>
+<b>Sent:</b> Friday, October 21, 2016 6:07 PM<br>
+<b>To:</b> Vivek Verma<br>
+<b>Cc:</b> Lead Tracker; Rahul Sanklecha; credit; loanspecialist<br>
+<b>Subject:</b> Re: Proposed Terms &amp; Conditions : SAKET LOGISTICS</font=
+>
+<div>&nbsp;</div>
+</div>
+</div>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText"><br>
+Dear sir,<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WE are a=
+gried with your terms and condition.we are provide <br>
+chq and pan card and reference number.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Thanks &amp; Regards<br>
+<br>
+<br>
+Pankaj vyas<br>
+<br>
+<br>
+<br>
+Reference&nbsp; :<br>
+<br>
+1) Chandrakant yadav : 91791-30821<br>
+2) Ranvir Singh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 97137-48075<br>
+<br>
+<br>
+On 2016-10-20 14:14, Vivek Verma wrote:<br>
+&gt; Dear Sir,<br>
+&gt; <br>
+&gt;&nbsp; As per our conversation over phone, below is the final proposed =
+terms<br>
+&gt; and conditions for Working Capital Loan so please confirm this mail<br=
+>
+&gt; ASAP.<br>
+&gt; <br>
+&gt;&nbsp; Loan Amount: Rs. 600,000/-<br>
+&gt; <br>
+&gt;&nbsp; Disbursement Amount : Rs. 593,100 /- (After deducting one time<b=
+r>
+&gt; Processing Fees &#43; Service Tax:15 % on Processing fees) Rs. 6,900 /=
+-.<br>
+&gt; <br>
+&gt;&nbsp; Interest Rate: 2.0 % Flat per month<br>
+&gt; <br>
+&gt; Duration: 6 Months<br>
+&gt; <br>
+&gt;&nbsp; Repayment: By 6 equal Monthly installments of Rs. 112,000 /-<br>
+&gt; <br>
+&gt;&nbsp; Late payment charges: Rs. 600 per day/ per installment.<br>
+&gt; <br>
+&gt; Please confirm so that we can go ahead with disbursement procedure.<br=
+>
+&gt; <br>
+&gt; _IN CASE IF YOU AGREE WITH THE TERMS AND CONDITIONS, PLEASE PROVIDE<br=
+>
+&gt; FOLLOWING DETAILS__ IN REPLY OF THIS MAIL ALONG WITH YOUR<br>
+&gt; CONFIRMATION__:_<br>
+&gt; <br>
+&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Scan copy of CANCELLED CHE=
+QUE OF&nbsp; UNION BANK (Account no.:<br>
+&gt; *******5462)<br>
+&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Photocopy of PAN and Adhar=
+ Card<br>
+&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Name number and address of=
+ 2 References<br>
+&gt; <br>
+&gt;&nbsp; Vivek Varma | Credit Analyst<br>
+&gt; <br>
+&gt;&nbsp; Ph No: 079 49036759<br>
+&gt; <br>
+&gt;&nbsp; 301-302 PRIMATE, OPP MOTHER MILK PALACE, NEAR JUDGES&#8217; BUNG=
+LOW CROSS<br>
+&gt;&nbsp;&nbsp;&nbsp; ROADS, BODAKDEV, AHMEDABAD &#8211; 380054 , GUJARAT.=
+<br>
+&gt; <br>
+&gt;&nbsp; Vivek.verma@lendingkart.com | <a href=3D"http://www.lendingkart.=
+com" id=3D"LPlnk973714" previewremoved=3D"true">
+www.lendingkart.com</a><br>
+</div>
+</span></font></div>
+</div>
+</body>
+</html>
+
+--_000_KL1PR01MB08384677A8679CC6CCBA6EA5FED70KL1PR01MB0838apcp_--

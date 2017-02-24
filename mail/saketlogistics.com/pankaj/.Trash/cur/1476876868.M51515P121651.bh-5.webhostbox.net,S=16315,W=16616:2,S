@@ -1,0 +1,301 @@
+Return-path: <divyang.bhagat@lendingkart.com>
+Envelope-to: pankaj@saketlogistics.com
+Delivery-date: Thu, 13 Oct 2016 11:23:33 +0000
+Received: from mail-pu1apc01on0058.outbound.protection.outlook.com ([104.47.126.58]:53654 helo=APC01-PU1-obe.outbound.protection.outlook.com)
+	by bh-5.webhostbox.net with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.86_1)
+	(envelope-from <divyang.bhagat@lendingkart.com>)
+	id 1bue6k-0012nn-Hj
+	for pankaj@saketlogistics.com; Thu, 13 Oct 2016 11:23:33 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=lendingkarttech.onmicrosoft.com; s=selector1-lendingkart-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=LIMknCDc7S5SRCF6DDj6ojninHpn5qDoXmrExMeTdN4=;
+ b=IYpQbECmiyGyJfLXaDkwGB+1Rw3j+2/myMVonKggErOMZIDm7mRFnpkyBrZzzgzz9v6ZhjzkyqqMYs5dv2O4knLAu0TCr6UOGwC7rZTbYvrI7qtYZHz+N7l7euEzoYyVMREsRlfBma/y5Q0JwUjrsixP7v+YHsr+X1jDMP1lkK4=
+Received: from SG2PR01MB0895.apcprd01.prod.exchangelabs.com (10.165.11.145) by
+ SG2PR01MB0894.apcprd01.prod.exchangelabs.com (10.165.11.144) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.659.11; Thu, 13
+ Oct 2016 11:22:49 +0000
+Received: from SG2PR01MB0895.apcprd01.prod.exchangelabs.com ([10.165.11.145])
+ by SG2PR01MB0895.apcprd01.prod.exchangelabs.com ([10.165.11.145]) with mapi
+ id 15.01.0659.020; Thu, 13 Oct 2016 11:22:50 +0000
+From: Divyang Bhagat <divyang.bhagat@lendingkart.com>
+To: "pankaj@saketlogistics.com" <pankaj@saketlogistics.com>
+Subject: =?Windows-1252?Q?Lendingkart_Group_=96_Documents_to_be_Provided__?=
+Thread-Topic: =?Windows-1252?Q?Lendingkart_Group_=96_Documents_to_be_Provided__?=
+Thread-Index: AQHSJUQhQBaEUQCUIkuAWxgOCM3FDg==
+Date: Thu, 13 Oct 2016 11:22:49 +0000
+Message-ID: <SG2PR01MB08956B7BFB2FD91675F0CC5687DC0@SG2PR01MB0895.apcprd01.prod.exchangelabs.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=divyang.bhagat@lendingkart.com; 
+x-originating-ip: [25.169.49.132]
+x-ms-office365-filtering-correlation-id: f34f6158-6f4e-4cd6-394f-08d3f35b4429
+x-microsoft-exchange-diagnostics:
+	1;SG2PR01MB0894;6:jI5Q5dYzGzqJCNpBac/ws+XE65o/k5ZHcqdVNR7SpGc968nnevLVFZLOS2A3oiNWslM6OjbVMBkkZ3uQ6c99h3SIKm5cZtS1Vzx5Yhyl1fmqj5q9JzE/gAJvyinisuXXPk2ggEWKdCdxAqjiEVi/QA6RReLh1L8ntoqBRHsH7GxwApW7JEW9wXtVxFAuP4g6fekpWAOOGgwGhoQ0GaBbLmxZdrdc5CboazHPJcP5JGjM9KvT+YHpPAhOiRQktYFrNTdQg3ZXUav/mHEUjixGYREVQGlYKEbqQI8t71TZxw8x5EGJQlGI30mmfB8A3/88;5:jrZP81MssBSuMcvn5X/zvRRD6tNu0SKfHuV06vh3aNknfC/Xx+zuHGUojXQmuo1J4BC8ea4kk2Re1/m55zGOpBhYQRGZp5O0AKkDx+SpufBnsInqPiKwGazlEGbFLpAWc7EV3b7Um7SQw93qn0SFFWjNzx2Mxs/7jEXGvpn/hVc=;24:eNc1MoCuAo80Km0qlTAGg6DPnlpd8Zh+FptCaFAb06rdyJlaGqTdeMtC47DYg59EKOzWNuptEvJ4CoygDrmwE+IjCNbNFLp6dRvyjgBcRbw=;7:qiLZe7n7v9EFJk9xhzLDhclQ154tDcTfrc+m5HYjUNtH9vNhvSmF7E/DP7vO7D/XUz8tOgi8FfUPeMLa3Lb/6DY7RMgLgva4MTQedg5qaSF1S+wQBTVUOe9pjHCOYWcTKgY+MOeQh884/PDJcCtnUsQsNqRz8TXVzyuw6Lsbqxr9EK6jkC276ANs9PnfLr5WCU3JugreHHQi0Loh3BCzCol6PhTABidUJ6XCz0+jHHncJhlnee/2H0yS7+eciDq5XwgBV9Hl+B6LlZ663wmr393hfhP42HOtrJbGO4DwIs7Tcxg+2yAeoQE3+ogA4BdDHXpmdzP32DGd1/MUF2ALGigAPTS1DgpQWPAbYcWpq3U=
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:SG2PR01MB0894;
+x-microsoft-antispam-prvs: <SG2PR01MB0894EA3AA37F5230331BA12887DC0@SG2PR01MB0894.apcprd01.prod.exchangelabs.com>
+x-exchange-antispam-report-test: UriScan:(266611908612381);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040176)(601004)(2401047)(5005006)(8121501046)(10201501046)(3002001);SRVR:SG2PR01MB0894;BCL:0;PCL:0;RULEID:;SRVR:SG2PR01MB0894;
+x-forefront-prvs: 0094E3478A
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(7916002)(189002)(199003)(3846002)(6116002)(87936001)(101416001)(2351001)(102836003)(19627405001)(86362001)(19625215002)(586003)(229853001)(5660300001)(122556002)(3280700002)(450100001)(105586002)(2900100001)(18206015028)(19580395003)(5002640100001)(92566002)(106116001)(19580405001)(106356001)(3660700001)(15975445007)(33656002)(68736007)(81156014)(9686002)(1730700003)(2906002)(81166006)(7906003)(77096005)(107886002)(189998001)(97736004)(7696004)(110136003)(6606003)(5640700001)(7736002)(50986999)(19617315012)(66066001)(8936002)(861006)(10400500002)(16236675004)(54356999)(7846002)(74316002)(6916009)(2501003)(7099028);DIR:OUT;SFP:1101;SCL:1;SRVR:SG2PR01MB0894;H:SG2PR01MB0895.apcprd01.prod.exchangelabs.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+received-spf: None (protection.outlook.com: lendingkart.com does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_SG2PR01MB08956B7BFB2FD91675F0CC5687DC0SG2PR01MB0895apcp_"
+MIME-Version: 1.0
+X-OriginatorOrg: lendingkart.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 13 Oct 2016 11:22:49.8175
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 30f0782d-3f7b-4038-937a-623e0c89d799
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SG2PR01MB0894
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_MSPIKE_H3=-0.01, RCVD_IN_MSPIKE_WL=-0.01, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.1 cv=QNnEPF/L c=1 sm=0 tr=0 a=YhDD0QE8__0A:10 a=OnTLejU1RtgA:10 a=CH0kA5CcgfcA:10 a=xJuVAbzwR3yI26RabUMA:9 a=9vD3OmiLmAEPfMRg:21 a=lSHeiU7W-9sRD_RG:21 a=pILNOxqGKmIA:10 a=YRTo11MV-YhS5F8zbZAA:9 a=vS_IjYaAtb0E7NNs:21 a=p8XD7voE7naC822h:21 a=tbt3hU-dMkCqy9EK:21 a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10 a=chvjmp5bT-K0Np4W8Gpx:22
+ 
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [104.47.126.58 listed in list.dnswl.org]
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: lendingkart.com]
+ * -0.0 RCVD_IN_MSPIKE_H3 RBL: Good reputation (+3)
+ *      [104.47.126.58 listed in wl.mailspike.net]
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.0 RCVD_IN_MSPIKE_WL Mailspike good senders
+X-Spam-Flag: NO
+
+--_000_SG2PR01MB08956B7BFB2FD91675F0CC5687DC0SG2PR01MB0895apcp_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Sir,
+
+Greetings from Lendingkart Group!
+
+Please find below the list of pending documents with respect to your loan a=
+pplication.
+
+
+  1.  Business registration certificate.
+  2.  Last 1-year Bank statements of Company (i.e. from 1-Oct-2015 to Oct-2=
+016 till date) in PDF/Notepad format.
+  3.  VAT/Service Tax returns for the last 1 year of the entity (if applica=
+ble).
+  4.  PAN card & Address proof. (Adhaar card or Voter Id)
+  5.  Detail ITR of last 2 years.
+
+Kindly provide us with these documents at your earliest possible convenienc=
+e so that we can proceed with evaluation of your loan application.
+
+For and on behalf of Aadri Infin Limited,
+
+
+
+
+Thanks and Regards,
+
+
+
+Divyang Bhagat| Loan Specialist
+
+301-302 PRIMATE, OPP MOTHER MILK PALACE,
+NEAR JUDGES=92 BUNGLOW CROSS ROADS,
+BODAKDEV, AHMEDABAD =96 380054
+
+T:  07949035945
+divyang.bhagat@lendingkart.com<mailto:divyang.bhagat@lendingkart.com>| www.=
+<http://www.lendingkart.com/>lendingkart.com<http://www.lendingkart.com/>
+
+
+
+[1450876478106_PastedImage]
+
+"There is only 1 boss "The Customer" and he can fire everybody in the compa=
+ny"
+
+
+--_000_SG2PR01MB08956B7BFB2FD91675F0CC5687DC0SG2PR01MB0895apcp_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;">
+<p></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:=0A=
+normal">
+<span style=3D"font-size: 12pt;">Dear Sir,<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt;tex=
+t-align:=0A=
+justify;line-height:normal">
+<span style=3D"font-size: 12pt;">&nbsp;</span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt;tex=
+t-align:=0A=
+justify;line-height:normal">
+<span style=3D"font-size: 12pt;">Greetings from Lendingkart Group!<o:p></o:=
+p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt;tex=
+t-align:=0A=
+justify;line-height:normal">
+<span style=3D"font-size: 12pt;">&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt;tex=
+t-align:=0A=
+justify;line-height:normal">
+<span style=3D"font-size: 12pt;">Please find below the list of pending docu=
+ments&nbsp;with respect to your loan application.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:=0A=
+normal">
+<span style=3D"font-size: 12pt;">&nbsp;</span></p>
+<ol nodeid=3D"1">
+<li><b><span lang=3D"EN-IN" style=3D"font-size: 12pt;">Business registratio=
+n certificate.<o:p></o:p></span></b></li><li><b><span lang=3D"EN-IN" style=
+=3D"font-size: 12pt;">Last 1-year Bank statements of Company
+<span style=3D"background:aqua;mso-highlight:aqua">(i.e. from 1-Oct-2015 to=
+ Oct-2016 till date)</span> in PDF/Notepad format</span></b><span lang=3D"E=
+N-IN" style=3D"font-size: 12pt;">.</span><span lang=3D"EN-IN" style=3D"back=
+ground-image: initial; background-position: initial; background-size: initi=
+al; background-repeat: initial; background-attachment: initial; background-=
+origin: initial; background-clip: initial;">
+</span><b><o:p></o:p></b></li><li><b><span lang=3D"EN-IN" style=3D"font-siz=
+e: 12pt;">VAT/Service Tax returns for the last 1 year of the entity (if app=
+licable).<o:p></o:p></span></b></li><li><b><span lang=3D"EN-IN" style=3D"fo=
+nt-size: 12pt;">PAN card &amp; Address proof. (Adhaar card or Voter Id)</sp=
+an></b><b><span style=3D"font-size: 12pt;"><o:p></o:p></span></b></li><li><=
+b><span lang=3D"EN-IN" style=3D"font-size: 12pt;">Detail ITR of last 2 year=
+s.</span></b></li></ol>
+<p class=3D"MsoNormal" style=3D"margin-top:0in;margin-right:0in;margin-bott=
+om:0in;=0A=
+margin-left:3.0pt;margin-bottom:.0001pt;line-height:normal">
+<span style=3D"font-size: 12pt;">&nbsp;</span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:=0A=
+normal">
+<span style=3D"font-size: 12pt;">Kindly provide us with these documents at =
+your earliest possible convenience so that we can proceed with evaluation o=
+f your loan application.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:=0A=
+normal">
+<span lang=3D"EN-IN" style=3D"font-size: 12pt;">&nbsp;</span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt;lin=
+e-height:=0A=
+normal">
+<span lang=3D"EN-IN" style=3D"font-size: 12pt;">For&nbsp;and on behalf of A=
+adri Infin Limited,</span><span style=3D"font-size: 12pt;"><o:p></o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><b><u><o:p>&nbsp;</o:p></u></b></p>
+<br>
+<p></p>
+<p><br>
+</p>
+<div id=3D"Signature">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt; color:#000000; ba=
+ckground-color:#FFFFFF; font-family:Calibri,Arial,Helvetica,sans-serif">
+<p></p>
+<p style=3D"font-family:Calibri,Arial,Helvetica,sans-serif; font-size:16px"=
+><span style=3D"color:rgb(34,34,34); font-size:11pt; font-family:&quot;Sego=
+e UI&quot;,sans-serif">Thanks and Regards,</span></p>
+<div style=3D"font-size:16px; font-family:arial,sans-serif"><span style=3D"=
+font-size:12pt"><span style=3D"color:rgb(34,34,34); font-family:'Segoe UI',=
+sans-serif"><span style=3D"font-size:10pt">&nbsp;</span><br style=3D"font-s=
+ize:10pt">
+<span style=3D"font-size:10pt; font-size:10pt"></span></span>
+<div><span style=3D"font-size:10pt; font-family:'Segoe UI',sans-serif">
+<p style=3D"margin-bottom:0.0001pt"><span style=3D"font-size:10pt"><span st=
+yle=3D"font-weight:bold; background-color:rgb(0,255,0)"><span style=3D"font=
+-family:&quot;Palatino Linotype&quot;,&quot;Book Antiqua&quot;,Palatino,ser=
+if; font-size:12pt; background-color:rgb(255,255,255)">Divyang
+ Bhagat</span><font color=3D"#222222"><span style=3D"font-family:&quot;Pala=
+tino Linotype&quot;,&quot;Book Antiqua&quot;,Palatino,serif; font-size:12pt=
+; background-color:rgb(255,255,255)">|</span></font></span><font color=3D"#=
+222222"><span style=3D"font-family:&quot;Palatino Linotype&quot;,&quot;Book=
+ Antiqua&quot;,Palatino,serif; font-size:10pt; background-color:rgb(255,255=
+,255)"><b><u>&nbsp;</u></b></span><span style=3D"font-family:&quot;Palatino=
+ Linotype&quot;,&quot;Book Antiqua&quot;,Palatino,serif; font-size:10pt; ba=
+ckground-color:rgb(255,255,255)"><b><u>Loan
+ Specialist</u></b></span></font></span></p>
+<span style=3D"font-family:&quot;Times New Roman&quot;,Times,serif"></span>
+<div style=3D"color:rgb(34,34,34)"><span style=3D"color:rgb(0,0,0); font-si=
+ze:10pt; font-family:&quot;Times New Roman&quot;,Times,serif">301-302 PRIMA=
+TE, OPP MOTHER MILK PALACE,&nbsp;</span></div>
+<span style=3D"font-family:&quot;Times New Roman&quot;,Times,serif"></span>
+<div style=3D"color:rgb(34,34,34)"><span style=3D"color:rgb(0,0,0); font-si=
+ze:10pt; font-family:&quot;Times New Roman&quot;,Times,serif">NEAR JUDGES=
+=92 BUNGLOW CROSS ROADS,</span></div>
+<span style=3D"font-family:&quot;Times New Roman&quot;,Times,serif"></span>
+<div style=3D"color:rgb(34,34,34)"><span style=3D"color:rgb(0,0,0); font-si=
+ze:10pt; font-family:&quot;Times New Roman&quot;,Times,serif">BODAKDEV, AHM=
+EDABAD =96 380054</span></div>
+<span style=3D"font-family:&quot;Times New Roman&quot;,Times,serif"></span>
+<p style=3D"color:rgb(34,34,34); margin-bottom:0.0001pt"><span style=3D"fon=
+t-size:10pt"><span style=3D"background-color:rgb(255,255,255)"><b><span sty=
+le=3D"font-family:&quot;Times New Roman&quot;,Times,serif; background-color=
+:rgb(255,255,0)"><span style=3D"font-size:11pt">T: &nbsp;</span></span></b>=
+<b><span style=3D"font-family:&quot;Times New Roman&quot;,Times,serif; back=
+ground-color:rgb(255,255,0)"><span style=3D"font-size:11pt">07949035945</sp=
+an></span></b></span></span></p>
+<p class=3D"MsoNormal"><a href=3D"mailto:divyang.bhagat@lendingkart.com" id=
+=3D"LPNoLP">divyang.bhagat@lendingkart.com</a><span style=3D"font-size:10pt=
+">|&nbsp;</span><a href=3D"http://www.lendingkart.com/" target=3D"_blank" i=
+d=3D"LPNoLP" style=3D"font-size:10pt; color:rgb(17,85,204)">www.<wbr></a><s=
+pan style=3D"font-size:10pt; color:rgb(17,85,204)"><a href=3D"http://www.le=
+ndingkart.com/" target=3D"_blank" id=3D"LPNoLP" style=3D"color:rgb(17,85,20=
+4)">lendingkart.com</a></span></p>
+<p class=3D"MsoNormal"><br>
+</p>
+</span>
+<p></p>
+<p style=3D"color:rgb(34,34,34); margin-bottom:0.0001pt"><span style=3D"fon=
+t-size:10pt"><span style=3D"color:rgb(17,85,204)"><br>
+</span></span></p>
+<div style=3D"color:rgb(34,34,34)"><img src=3D"https://attachment.outlook.o=
+ffice.net/owa/divyang.bhagat@lendingkart.com/service.svc/s/GetFileAttachmen=
+t?id=3DAAMkADkwNjNjODJkLWJhYWYtNGNjZi04MGMyLWQ2OThhNDk2MjI0NABGAAAAAADSmvKE=
+ZIwhTJHR25iJZNLeBwCkbCS4cU4%2FRJOXHTlRNoewAAAAAAEMAACkbCS4cU4%2FRJOXHTlRNoe=
+wAAAAAAVZAAABEgAQAKhkuy9S91dEpM8ZAu3z5i4%3D&amp;X-OWA-CANARY=3DOcm7rjsevUy3=
+sUqjleykyDAef7ELg9MYfKCmgsC41P72AKG_fFu4y173632KbQ3oSQPQc4RENAQ.&amp;token=
+=3D1c5ddb69-7fae-4939-a851-cd866ba4e57e&amp;owa=3Doutlook.office.com&amp;re=
+tryCount=3D3" class=3D"x_EmojiInsert" alt=3D"1450876478106_PastedImage" sty=
+le=3D"display: inline; max-width: 100%; -webkit-user-select: none;"><br>
+</div>
+<div style=3D"color:rgb(34,34,34)"><br>
+</div>
+</div>
+<div style=3D"color:rgb(34,34,34)"><b style=3D"font-size:10pt; font-family:=
+'Segoe UI',sans-serif"><font color=3D"#0000ff">&quot;There is only 1 boss &=
+quot;The Customer&quot; and he can fire everybody in the company&quot;</fon=
+t></b><br>
+</div>
+</span></div>
+<br>
+<p></p>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_SG2PR01MB08956B7BFB2FD91675F0CC5687DC0SG2PR01MB0895apcp_--

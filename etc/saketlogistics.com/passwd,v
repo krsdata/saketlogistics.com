@@ -1,0 +1,69 @@
+head	1.4;
+access;
+symbols;
+locks
+	saketlogistics:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2016.09.11.12.40.33;	author saketlogistics;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2016.09.07.15.33.00;	author saketlogistics;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2016.09.07.15.32.00;	author saketlogistics;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2016.09.07.15.32.00;	author saketlogistics;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@s.malviya:x:9064:9060::/home/saketlogistics/mail/saketlogistics.com/s.malviya:/home/saketlogistics
+admin:x:9064:9060::/home/saketlogistics/mail/saketlogistics.com/admin:/home/saketlogistics
+pankaj:x:9064:9060::/home/saketlogistics/mail/saketlogistics.com/pankaj:/home/saketlogistics
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

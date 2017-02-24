@@ -1,0 +1,1 @@
+{"mode":"simple","version":"2.4","data":[{"type":"main","user":"saketlogistics","homedir":"/home/saketlogistics"},{"type":"logaccess","user":"saketlogistics_logs","homedir":"/etc/apache2/logs/domlogs/saketlogistics"}],"status":1,"error":0,"action":"fetch","statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","timeout":0,"exit_code":0}

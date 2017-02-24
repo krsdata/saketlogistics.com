@@ -1,0 +1,222 @@
+Return-path: <bounce-md_30875993.580732ce.v1-fcc3c0ed3a7c45ebae27673bc8998688@mandrillapp.com>
+Envelope-to: pankaj@saketlogistics.com
+Delivery-date: Wed, 19 Oct 2016 08:46:46 +0000
+Received: from mail178-29.suw51.mandrillapp.com ([198.2.178.29]:58093)
+	by bh-5.webhostbox.net with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.86_1)
+	(envelope-from <bounce-md_30875993.580732ce.v1-fcc3c0ed3a7c45ebae27673bc8998688@mandrillapp.com>)
+	id 1bwmWJ-0037VM-M6
+	for pankaj@saketlogistics.com; Wed, 19 Oct 2016 08:46:46 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=lendingkart.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type; i=noreply@lendingkart.com;
+ bh=R700JQkiPbn1Yb2RojHOaWQ8b90=;
+ b=TRmBMnw0jqvExFGBVoH45Wg7Q2UlrtJklq+WOolysxCPlfHl+GRJez9hW3elVNp0nXJtGFue5Bz+
+   0ekxIaZiYfSMdjesRZlcSH/Um3DvSloAqxmIIjEw/jUGehJi40rdDDbNPYhBWxyS8IVa8ools6+u
+   8TtcxZi4Pj6HFEXwWEM=
+Received: from pmta05.mandrill.prod.suw01.rsglab.com (127.0.0.1) by mail178-29.suw51.mandrillapp.com id h0spfe22s108 for <pankaj@saketlogistics.com>; Wed, 19 Oct 2016 08:46:06 +0000 (envelope-from <bounce-md_30875993.580732ce.v1-fcc3c0ed3a7c45ebae27673bc8998688@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1476866766; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : From : 
+ Subject : Date : X-Mandrill-User : List-Unsubscribe; 
+ bh=qSB+M6BfUxHafthz/kP/f2RzKvqTWSNRKf6Gwp9aqyM=; 
+ b=lTyxUX4PxPse46PJ2JUEw3sdqtBHcgtmPDDecNzbF7okApdZSWjxbTEvMEv+jGBCrR4JrY
+ sGL/9Zq10nNa6Sv0AOl+6conoSYKavVYl6v+/7PQB/G3rPYW6DmbqWDvVYkXvzgjp3HOwBDQ
+ XO9CHqTVNePFiZTMkBdlUKL1J0uyg=
+From: Lendingkart <noreply@lendingkart.com>
+Subject: Loan Application Submitted
+Received: from [54.169.208.116] by mandrillapp.com id fcc3c0ed3a7c45ebae27673bc8998688; Wed, 19 Oct 2016 08:46:06 +0000
+To: <pankaj@saketlogistics.com>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30875993.fcc3c0ed3a7c45ebae27673bc8998688
+X-Mandrill-User: md_30875993
+Message-Id: <30875993.20161019084606.580732ce7b86f5.10281085@mail178-29.suw51.mandrillapp.com>
+Date: Wed, 19 Oct 2016 08:46:06 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-TZMahxFvVOd5bzxJFFvWcg"
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-3.1
+X-Spam-Score: -30
+X-Spam-Bar: ---
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HEADER_FROM_DIFFERENT_DOMAINS=0.001, HTML_FONT_LOW_CONTRAST=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_MSPIKE_H3=-0.01, RCVD_IN_MSPIKE_WL=-0.01, RP_MATCHES_RCVD=-3, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.1 cv=QNnEPF/L c=1 sm=0 tr=0 a=lFHFufcg1OBdLzj2K04F5g==:17 a=lU03Z4yc7+u8VQHnwYB+2V2ltmY=:19 a=4-C6CINcn30A:10 a=CH0kA5CcgfcA:10 a=5I_ee0ed9RCC85cH4VUA:9 a=QEXdDO2ut3YA:10 a=gmd1ZWrt3F4A:10 a=d0IaMiIT4nsA:10 a=fWvakCKyaoIA:10 a=2zJYuC2nAAAA:20 a=X3EuF-0CXMN71EHUdzIA:9 a=SGnNNvChMjY42Z2S:21 a=_W_S_7VecoQA:10 a=jjxgvnocCX0A:10 a=XCW2YoViXgUA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: googleusercontent.com]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [198.2.178.29 listed in list.dnswl.org]
+ *  0.0 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level mail
+ *      domains are different
+ * -3.0 RP_MATCHES_RCVD Envelope sender domain matches handover relay domain
+ * -0.0 RCVD_IN_MSPIKE_H3 RBL: Good reputation (+3)
+ *      [198.2.178.29 listed in wl.mailspike.net]
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or identical to
+ *       background
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.0 RCVD_IN_MSPIKE_WL Mailspike good senders
+X-Spam-Flag: NO
+
+--_av-TZMahxFvVOd5bzxJFFvWcg
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+        Document <https://lendingkart.com/>        301-302 PRIMATE, OPP
+MOTHER MILK PALACE, NEAR JUDGE'S BUNGLOW CROSS ROADS, BODAKDEV, AHMEDABAD -
+380054.  https://lendingkart.com/        *Dear  pankaj vyas*, Loan
+Application(ID:LAI-100094089)submitted successfully.
+
+ We have received your application and it is under review. We will get in
+touch with you in case we need any additional information.
+
+ Please click here <http://app.lendingkart.com/lkart/login.html>to login
+and check the status if you have password or else click here
+<http://app.lendingkart.com/lkart//reset/reset-p.html#!/reset/nhKCsODgzbUuwRyOTwHrCh6BRcjbsY6~YNa0cFroj~M588LiZt40PlfL~oYW2c+25o2wa8XH~vNzbN1gouYpcNRYUfO9EeGc335FmyWkWmf+~ET74ZTYzw==>to
+set the password
+
+ If you have any queries please feel free to contact us at +91-79-2646-7574
+or send a mail to info@lendingkart.com <mailto:info@lendingkart.com>
+
+ *Sincerely, 
+Lendingkart Technologies Pvt Ltd
+*
+
+  
+
+     Electronic Privacy Notice & Email Disclaimer: 
+This email, and any attachments, contains information that is, or may be,
+covered by electronic communications privacy laws, and is also confidential
+and proprietary in nature. If you are not the intended recipient, please be
+advised that you are legally prohibited from retaining, using,
+--_av-TZMahxFvVOd5bzxJFFvWcg
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html lang=3D"en">
+ <head>
+  <meta charset=3D"UTF-8">
+  <meta name=3D"Generator" content=3D"EditPlus=C2=AE">
+  <meta name=3D"Author" content=3D"">
+  <meta name=3D"Keywords" content=3D"">
+  <meta name=3D"Description" content=3D"">
+  <title>Document</title>
+ </head>
+ <body>
+  <table style=3D"BORDER-TOP:#015493 1px solid;BORDER-RIGHT:#015493 1px sol=
+id;WIDTH:800px;BORDER-BOTTOM:#015493 1px solid;COLOR:#3e3d3d;BORDER-LEFT:#0=
+15493 1px solid" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" borde=
+r=3D"0">
+  <tbody>
+  <tr>
+    <td bgcolor=3D"#055895" valign=3D"middle" colspan=3D"2">
+      <table style=3D"COLOR:#3e3d3d" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"100%" border=3D"0">
+        <tbody>
+        <tr>
+          <td style=3D"PADDING-BOTTOM:25px;PADDING-TOP:30px;PADDING-LEFT:15=
+px;MARGIN:0px;PADDING-RIGHT:15px" width=3D"90%"><a href=3D"http://mandrilla=
+pp.com/track/click/30875993/lendingkart.com?p=3DeyJzIjoiTmF6NndJNUVlUEtySHk=
+1YVNWYkJWdmh5emtFIiwidiI6MSwicCI6IntcInVcIjozMDg3NTk5MyxcInZcIjoxLFwidXJsXC=
+I6XCJodHRwczpcXFwvXFxcL2xlbmRpbmdrYXJ0LmNvbVxcXC9cIixcImlkXCI6XCJmY2MzYzBlZ=
+DNhN2M0NWViYWUyNzY3M2JjODk5ODY4OFwiLFwidXJsX2lkc1wiOltcIjI1M2VmYmUxMjE2NDg5=
+M2NkZjI2ZmI4OWU0Njc2ZmU0ZjA0MTI1M2VcIl19In0" target=3D"_blank"><img alt=3D"=
+Logo" src=3D"https://ci6.googleusercontent.com/proxy/QRsIC7vbv-PSuakx6QnIuU=
+U5S0qY9pmXk4clrJAlLmWhfud5p9tm_5V1lp3m8AHejTQZwNRznMn4T6-vHu0toZJvAor4t-M=
+=3Ds0-d-e1-ft#http://lkpublic.iqrtech.com/images/email_logo.png" width=3D"2=
+75" height=3D"29" class=3D"CToWUd"></a> </td>
+          <td style=3D"MARGIN:0px" valign=3D"middle" width=3D"10%"></td></t=
+r></tbody></table></td></tr>
+  <tr>
+    <td style=3D"BORDER-TOP:#022036 1px solid;BACKGROUND:#08385c;BORDER-BOT=
+TOM:#022036 1px solid;COLOR:#fff;PADDING-BOTTOM:5px;PADDING-TOP:5px;PADDING=
+-LEFT:15px;MARGIN:0px;PADDING-RIGHT:15px" colspan=3D"2">
+      <table style=3D"COLOR:#fff" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"100%" border=3D"0">
+        <tbody>
+        <tr>
+          <td style=3D"FONT-FAMILY:segoe,'Segoe UI','DejaVu Sans','Trebuche=
+t MS',verdana,sans-serif" valign=3D"middle" colspan=3D"2">301-302 PRIMATE, =
+OPP MOTHER MILK PALACE, NEAR 
+            JUDGE'S BUNGLOW CROSS ROADS, BODAKDEV, AHMEDABAD - 380054. </td=
+></tr>
+          <tr><td style=3D"MARGIN:0px" align=3D"left" valign=3D"middle" wid=
+th=3D"10%"><a style=3D"TEXT-DECORATION:none;FONT-FAMILY:segoe,'Segoe UI','D=
+ejaVu Sans','Trebuchet MS',verdana,sans-serif;COLOR:#fff">https://lendingka=
+rt.com/</a></td></tr></tbody></table></td>
+  </tr><tr>
+  </tr><tr>
+    <td style=3D"PADDING-BOTTOM:15px;PADDING-TOP:0px;PADDING-LEFT:15px;PADD=
+ING-RIGHT:15px" colspan=3D"2">
+      <table style=3D"COLOR:#3e3d3d" cellspacing=3D"5" cellpadding=3D"1" wi=
+dth=3D"650" border=3D"0">
+        <tbody>
+        <tr>
+        
+         <td style=3D"COLOR:#000;PADDING-BOTTOM:10px;PADDING-TOP:10px;FONT:=
+12px/18px arial,helvetica,sans-serif;PADDING-LEFT:10px;PADDING-RIGHT:10px">
+          
+          <strong>Dear&nbsp; 
+              <span>pankaj vyas</span></strong>, 
+             <p>Loan Application(ID:<span>LAI-100094089</span>)submitted su=
+ccessfully.</p>
+          <p>We have received your application and it is under review. We w=
+ill get in touch with you in case we need any additional information.</p>
+          <p>Please <span><a href=3D"http://mandrillapp.com/track/click/308=
+75993/app.lendingkart.com?p=3DeyJzIjoiVnZ2RjV1N05FWEVlWHZGM1hKQWpDZzdhXzUwI=
+iwidiI6MSwicCI6IntcInVcIjozMDg3NTk5MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9c=
+XFwvYXBwLmxlbmRpbmdrYXJ0LmNvbVxcXC9sa2FydFxcXC9sb2dpbi5odG1sXCIsXCJpZFwiOlw=
+iZmNjM2MwZWQzYTdjNDVlYmFlMjc2NzNiYzg5OTg2ODhcIixcInVybF9pZHNcIjpbXCI1NTM2OD=
+Y4OGYyMGNiNDNkNzc5N2Y1ZTFiMWMyMDkzZDY4MDU4ODEyXCJdfSJ9">click here </a></sp=
+an>to login and check the status if you have password or else <span><a href=
+=3D"http://mandrillapp.com/track/click/30875993/app.lendingkart.com?p=3DeyJ=
+zIjoiLVZ5MUJMMDdETGRLeEd5SWtIbWt5dy1QWGhRIiwidiI6MSwicCI6IntcInVcIjozMDg3NT=
+k5MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvYXBwLmxlbmRpbmdrYXJ0LmNvbVxcX=
+C9sa2FydFxcXC9cXFwvcmVzZXRcXFwvcmVzZXQtcC5odG1sIyFcXFwvcmVzZXRcXFwvbmhLQ3NP=
+RGd6YlV1d1J5T1R3SHJDaDZCUmNqYnNZNn5ZTmEwY0Zyb2p-TTU4OExpWnQ0MFBsZkx-b1lXMmM=
+rMjVvMndhOFhIfnZOemJOMWdvdVlwY05SWVVmTzlFZUdjMzM1Rm15V2tXbWYrfkVUNzRaVFl6dz=
+09XCIsXCJpZFwiOlwiZmNjM2MwZWQzYTdjNDVlYmFlMjc2NzNiYzg5OTg2ODhcIixcInVybF9pZ=
+HNcIjpbXCI3MTAzN2NkYjM1YmE3NTJiMTRhNDdiMDZmYTMzZTM1NmI0ODk0MzFiXCJdfSJ9">cl=
+ick here </a></span>to set the password</p>
+            
+            
+            
+            
+            <p>If you have any queries please feel free to contact us at 
+            +91-79-2646-7574 or send a mail to <a href=3D"mailto:info@lendi=
+ngkart.com" target=3D"_blank">info@lendingkart.com</a></p>
+            <p><strong><span style=3D"COLOR:#000066">Sincerely, <br>Lending=
+kart 
+            Technologies Pvt Ltd<br></span></strong></p>
+            <p><img src=3D"https://lendingkart.com/img/LENDINGKART_LOGO.png=
+" class=3D"CToWUd"> 
+           </p></td>
+          
+          </tr></tbody></table></td></tr>
+  <tr>
+    <td height=3D"5" colspan=3D"2"></td></tr>
+  <tr>
+    <td style=3D"FONT-SIZE:10px;WIDTH:100%;COLOR:#aeabab;PADDING-BOTTOM:5px=
+;PADDING-TOP:5px;PADDING-LEFT:15px;MARGIN:0px;LETTER-SPACING:normal;LINE-HE=
+IGHT:11px;PADDING-RIGHT:15px" bgcolor=3D"#015493" colspan=3D"2"><span style=
+=3D"FONT-FAMILY:segoe,'Segoe UI','DejaVu Sans','Trebuchet MS',verdana,sans-=
+serif;COLOR:#fff">Electronic 
+      Privacy Notice &amp; Email Disclaimer:</span> <br>This email, and any=
+ 
+      attachments, contains information that is, or may be, covered by 
+      electronic communications privacy laws, and is also confidential and 
+      proprietary in nature. If you are not the intended recipient, please =
+be 
+      advised that you are legally prohibited from retaining, using, 
+  </td></tr></tbody></table>
+ <img src=3D"http://mandrillapp.com/track/open.php?u=3D30875993&id=3Dfcc3c0=
+ed3a7c45ebae27673bc8998688" height=3D"1" width=3D"1"></body>
+</html>
+
+--_av-TZMahxFvVOd5bzxJFFvWcg--
+

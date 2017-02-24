@@ -1,0 +1,1 @@
+[23-Feb-2017 13:58:51 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 49152 bytes) in /home/saketlogistics/public_html/wp-includes/functions.php on line 4187

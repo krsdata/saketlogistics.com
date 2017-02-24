@@ -1,0 +1,391 @@
+Return-Path: <Charvi.trivedi@lendingkart.com>
+Delivered-To: pankaj@saketlogistics.com
+Received: from host
+	by host.infowayindia.in (Dovecot) with LMTP id QZG9B74GOFg/egAARNjblg
+	for <pankaj@saketlogistics.com>; Fri, 25 Nov 2016 09:39:10 +0000
+Return-path: <Charvi.trivedi@lendingkart.com>
+Envelope-to: pankaj@saketlogistics.com
+Delivery-date: Fri, 25 Nov 2016 09:39:10 +0000
+Received: from mail-sg2apc01on0057.outbound.protection.outlook.com ([104.47.125.57]:52160 helo=APC01-SG2-obe.outbound.protection.outlook.com)
+	by host with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <Charvi.trivedi@lendingkart.com>)
+	id 1cACyL-00088g-51
+	for pankaj@saketlogistics.com; Fri, 25 Nov 2016 09:39:10 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=lendingkarttech.onmicrosoft.com; s=selector1-lendingkart-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=flu2eKFmVUBjmWwQOkwDk9PfhI+mRLweKYy+0f1A0UM=;
+ b=ZoBB4WadQIG7TZsMIhEEDGazZpGdDaj2PRfMJoRig/I+x+xs/oy5DxbEsI++3Hii1yKxaDyvcn6lztwk5CgLtaTF0y5wQFAL75ha5xtDLBfoMNV83/NQ9FmJLSHf0bYusjaWcT+Ajt9hVVl7++CopA25gzvWN83GuhVKvy0YI3s=
+Received: from HK2PR01MB0931.apcprd01.prod.exchangelabs.com (10.165.176.9) by
+ HK2PR01MB0930.apcprd01.prod.exchangelabs.com (10.165.176.8) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.734.8; Fri, 25 Nov
+ 2016 09:38:23 +0000
+Received: from HK2PR01MB0931.apcprd01.prod.exchangelabs.com ([10.165.176.9])
+ by HK2PR01MB0931.apcprd01.prod.exchangelabs.com ([10.165.176.9]) with mapi id
+ 15.01.0734.014; Fri, 25 Nov 2016 09:38:23 +0000
+From: Charvi Trivedi <Charvi.trivedi@lendingkart.com>
+To: "pankaj@saketlogistics.com" <pankaj@saketlogistics.com>
+Subject: Aadri Infin Ltd: Gentle reminder of NEFT Payment for installment due
+ on 28-November-16
+Thread-Topic: Aadri Infin Ltd: Gentle reminder of NEFT Payment for installment
+ due on 28-November-16
+Thread-Index: AdJG/tObJgTsx1OzSgWScByqUYoUiw==
+Date: Fri, 25 Nov 2016 09:37:52 +0000
+Message-ID: <HK2PR01MB093156768FC18D0757E5532082890@HK2PR01MB0931.apcprd01.prod.exchangelabs.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=Charvi.trivedi@lendingkart.com; 
+x-originating-ip: [182.71.138.58]
+x-microsoft-exchange-diagnostics: 1;HK2PR01MB0930;7:sjTGYIQ5WakZmV2HAPZq7zt/QtUU2PjtT4eTQ3sIRCnLbkab9DoheoQG8PsstSVILhcjkneOQRqraxf1WkPNYxih3oTf5T2akDr7xoEK8XPavFMfx4ZIuDCS13seKJCTk92edEW5h7TiIwbGVI8BabFyYnlPhw83bIL5u/ZIiR/FBqN9roHZA2XXq3ZOzCCgZWT4jsQNbf93MgE2kj7pzC3SX0pvxigMmdafTzRi8W8XGhHf2JJrM2s7wtLk5qka9Tmk+01y2wtmrcJhPmUqnyA3Tn/R6llY/UeOMhxqEibk3hET8N+rFMB5dHkvn1iTud5HXxRqyDqb/nLm/bUa+UBNgUxjVAgep6zRX9uzlZQ=
+x-ms-office365-filtering-correlation-id: 6418df0d-5174-4151-b2fd-08d41516ccba
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001);SRVR:HK2PR01MB0930;
+x-microsoft-antispam-prvs: <HK2PR01MB093091304A2CBE2D9D87953782890@HK2PR01MB0930.apcprd01.prod.exchangelabs.com>
+x-exchange-antispam-report-test: UriScan:(278428928389397)(124741571804231)(117847588508230)(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6060326)(6045199)(6040361)(601004)(2401047)(8121501046)(5005006)(10201501046)(3002001)(6061324)(6041248)(20161123555025)(20161123564025)(20161123560025)(20161123562025);SRVR:HK2PR01MB0930;BCL:0;PCL:0;RULEID:;SRVR:HK2PR01MB0930;
+x-forefront-prvs: 01371B902F
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(7916002)(22444005)(199003)(12213003)(189002)(1730700003)(122556002)(230783001)(39450400002)(33656002)(106356001)(110136003)(105586002)(2501003)(81156014)(6506003)(7736002)(606004)(50986999)(86362001)(74316002)(15650500001)(790700001)(39400400001)(2351001)(8936002)(2900100001)(77096005)(7696004)(5660300001)(92566002)(551124005)(6666003)(189998001)(7906003)(404494003)(3280700002)(3660700001)(81166006)(10710500007)(2906002)(2420400007)(39380400001)(97736004)(9686002)(8676002)(38730400001)(5630700001)(7110500001)(54356999)(6916009)(6116002)(101416001)(68736007)(66066001)(3846002)(102836003)(107886002)(5640700001)(450100001)(7846002);DIR:OUT;SFP:1101;SCL:1;SRVR:HK2PR01MB0930;H:HK2PR01MB0931.apcprd01.prod.exchangelabs.com;FPR:;SPF:None;PTR:InfoNoRecords;A:1;MX:1;LANG:en;
+received-spf: None (protection.outlook.com: lendingkart.com does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_HK2PR01MB093156768FC18D0757E5532082890HK2PR01MB0931apcp_"
+MIME-Version: 1.0
+X-OriginatorOrg: lendingkart.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 25 Nov 2016 09:37:52.8456
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 30f0782d-3f7b-4038-937a-623e0c89d799
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: HK2PR01MB0930
+
+--_000_HK2PR01MB093156768FC18D0757E5532082890HK2PR01MB0931apcp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+SAKET LOGISTICS
+
+
+
+Dear Customer,
+
+
+
+
+
+We would like to remind you that the installment No. -  1 of INR 112000/- o=
+f loan Account No. - LAI-00007563  is due on 28-Nov-16
+
+
+
+Since your NACH mandate will take some time for activation, please transfer=
+ the installment amount via NEFT / RTGS / IMPS in the bank account of AADRI=
+ INFIN LTD. The bank details for the same is shown below:
+
+
+
+Beneficiary Name       : AADRI INFIN LTD
+
+
+
+Bank Name                 :  AXIS BANK LTD
+
+
+
+Branch Name              :  AHMEDABAD MAIN BRANCH ( LAW GARDEN BRANCH )
+
+
+
+Account Number         : 916030013054327
+
+
+
+Account Type              : OD
+
+
+
+Rtgs/Neft Code             : UTIB0000003
+
+
+
+Branch Address           :   TRISHUL' OPP SAMATHESHWAR TEMPLE ,
+
+                                          LAW GARDEN , AHMEDABAD - 380006.
+
+
+
+Pursuant to this we request you to send a screenshot of payment acknowledge=
+ment receipt to alerts@aadriinfin.com<mailto:alerts@aadriinfin.com>
+
+You can reach us for any assistance /clarifications through any of our acce=
+ss channels mentioned below:
+
+
+
+Email us<https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Custom=
+erCenter/Customer_Center.aspx> - alerts@aadriinfin.com<mailto:alerts@aadrii=
+nfin.com>
+
+
+
+Call us - +91-9033014680/42
+
+
+
+
+
+Thank you!
+
+
+
+Collections Team
+
+Aadri Infin Ltd
+
+201- Primate, Opp Mother Milk Palace,
+
+Near Judges Bunglow Cross Road Bodakdev,
+
+Ahmedabad - 380054, India
+
+--_000_HK2PR01MB093156768FC18D0757E5532082890HK2PR01MB0931apcp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Batang;
+	panose-1:2 3 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Bodoni MT";}
+@font-face
+	{font-family:"\@Batang";
+	panose-1:2 3 6 0 0 1 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:106%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in .75in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNoSpacing" align=3D"center" style=3D"text-align:center"><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:b=
+lack">SAKET LOGISTICS<o:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"text-align:justify"><span style=3D"font-=
+size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:black"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:=
+black">Dear Customer,<o:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:=
+black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:=
+black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:=
+black">We would like to remind you that the installment No. - &nbsp;1 of IN=
+R 112000/- of loan Account No. &#8211; LAI-00007563&nbsp; is due
+ on 28-Nov-16<o:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:=
+black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif">Since=
+ your NACH mandate will take some time for activation, p<span style=3D"colo=
+r:black">lease transfer the installment amount via
+ NEFT / RTGS / IMPS in the bank account of AADRI INFIN LTD. The bank detail=
+s for the same is shown below:<o:p></o:p></span></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:=
+black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><b>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black">Beneficiary Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : AADRI INFI=
+N LTD<o:p></o:p></span></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><b>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black"><o:p>&nbsp;</o:p></span></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><b>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black">Bank Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp; AXIS BANK LTD<o:p></o:p></=
+span></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><b>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black"><o:p>&nbsp;</o:p></span></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><b>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black">Branch Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp; AHMEDABAD MAIN BRANCH ( LAW GARDEN BRANCH =
+)<o:p></o:p></span></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><b>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black"><o:p>&nbsp;</o:p></span></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><b>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black">Account Number &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: =
+916030013054327<o:p></o:p></span></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><b>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black"><o:p>&nbsp;</o:p></span></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><b>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black">Account Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp; : OD<o:p></o:p></span></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><b>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black"><o:p>&nbsp;</o:p></span></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><b>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black">Rtgs/Neft Code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp; : UTIB0000003<o:p></o:p></span></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><b>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black"><o:p>&nbsp;</o:p></span></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><b>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black">Branch Address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp; :&nbsp;&nbsp; TRISHUL' OPP SAMATHESHWAR TEMPLE ,
+<o:p></o:p></span></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><b>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LAW GARDEN , AHMEDABAD - 380006.<o:p><=
+/o:p></span></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:=
+black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:=
+black">Pursuant to this we request you to send a screenshot of payment ackn=
+owledgement receipt to
+</span><a href=3D"mailto:alerts@aadriinfin.com"><span style=3D"font-size:12=
+.0pt;font-family:&quot;Bodoni MT&quot;,serif">alerts@aadriinfin.com</span><=
+/a><span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;=
+color:black"><o:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:=
+black"><o:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-family:&quot;Bodoni MT&quot;,serif;color:black">You can re=
+ach us for any assistance /clarifications through any of our access channel=
+s mentioned below:<o:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-family:&quot;Bodoni MT&quot;,serif;color:black"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><a =
+href=3D"https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Custome=
+rCenter/Customer_Center.aspx" target=3D"_blank"><span style=3D"font-size:12=
+.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:black;text-decoration:no=
+ne">Email
+ us</span></a><span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&q=
+uot;,serif;color:black"> -
+</span><a href=3D"mailto:alerts@aadriinfin.com"><span style=3D"font-size:12=
+.0pt;font-family:&quot;Bodoni MT&quot;,serif">alerts@aadriinfin.com</span><=
+/a><span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;=
+color:black"><o:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:=
+black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:=
+black">Call us - &#43;91-9033014680/42<o:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:=
+black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:=
+black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:=
+black">Thank you!<o:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:=
+black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><b>=
+<i><span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;=
+color:black">Collections Team
+<o:p></o:p></span></i></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><b>=
+<i><span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;=
+color:black">Aadri Infin Ltd</span></i></b><b><span style=3D"font-size:12.0=
+pt;font-family:&quot;Bodoni MT&quot;,serif;color:black"><o:p></o:p></span><=
+/b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><i>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black">201- Primate, Opp Mother Milk Palace,&nbsp;</span></i><span style=
+=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:black"><=
+o:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><i>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black">Near Judges Bunglow Cross Road Bodakdev,</span></i><span style=3D=
+"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:black"><o:p=
+></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin-left:.5in;text-align:justify"><i>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black">Ahmedabad &#8211; 380054, India</span></i></p>
+</div>
+</body>
+</html>
+
+--_000_HK2PR01MB093156768FC18D0757E5532082890HK2PR01MB0931apcp_--

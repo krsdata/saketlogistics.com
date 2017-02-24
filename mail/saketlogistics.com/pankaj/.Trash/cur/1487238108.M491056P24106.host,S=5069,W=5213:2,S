@@ -1,0 +1,144 @@
+Return-Path: <>
+Delivered-To: pankaj@saketlogistics.com
+Received: from host
+	by host.infowayindia.in (Dovecot) with LMTP id gU0LHdxzpVgqXgAARNjblg
+	for <pankaj@saketlogistics.com>; Thu, 16 Feb 2017 09:41:48 +0000
+Return-path: <>
+Envelope-to: pankaj@saketlogistics.com
+Delivery-date: Thu, 16 Feb 2017 09:41:48 +0000
+Received: from mailnull by host with local (Exim 4.88)
+	id 1ceIZQ-0006I5-7U
+	for pankaj@saketlogistics.com; Thu, 16 Feb 2017 09:41:48 +0000
+X-Failed-Recipients: donotreply@lendingkart.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@host>
+To: pankaj@saketlogistics.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1487238108-eximdsn-1832312881
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ceIZQ-0006I5-7U@host>
+Date: Thu, 16 Feb 2017 09:41:48 +0000
+
+--1487238108-eximdsn-1832312881
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  donotreply@lendingkart.com
+    host aspmx.l.google.com [74.125.22.27]
+    SMTP error from remote mail server after RCPT TO:<donotreply@lendingkart.com>:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1  https://support.google.com/mail/?p=NoSuchUser w54si4839088qta.206 - gsmtp
+
+--1487238108-eximdsn-1832312881
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; host
+
+Action: failed
+Final-Recipient: rfc822;donotreply@lendingkart.com
+Status: 5.0.0
+Remote-MTA: dns; aspmx.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does not exist. Please try
+ 550-5.1.1 double-checking the recipient's email address for typos or
+ 550-5.1.1 unnecessary spaces. Learn more at
+ 550 5.1.1  https://support.google.com/mail/?p=NoSuchUser w54si4839088qta.206 - gsmtp
+
+--1487238108-eximdsn-1832312881
+Content-type: message/rfc822
+
+Return-path: <pankaj@saketlogistics.com>
+Received: from [::1] (port=60370 helo=saketlogistics.com)
+	by host with esmtpa (Exim 4.88)
+	(envelope-from <pankaj@saketlogistics.com>)
+	id 1ceIZP-0006Hv-Gf
+	for donotreply@lendingkart.com; Thu, 16 Feb 2017 09:41:47 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+Date: Thu, 16 Feb 2017 09:41:47 +0000
+From: pankaj@saketlogistics.com
+To: donotreply@lendingkart.com
+Subject: Re: Lendingkart - Fast, Short-Term Loans Without Collateral
+In-Reply-To: <p_c-451018-198352-2-cGFua2FqQHNha2V0bG9naXN0aWNzLmNvbQ==unsub@lkmailers.com>
+References: <p_c-451018-198352-2-cGFua2FqQHNha2V0bG9naXN0aWNzLmNvbQ==unsub@lkmailers.com>
+Message-ID: <f3dfd680ef3a9bc9276edd598f6e72a2@saketlogistics.com>
+X-Sender: pankaj@saketlogistics.com
+User-Agent: Roundcube Webmail/1.2.3
+
+Dear sir/mem
+
+         WE have already taken loan of your company and also paid 04 
+installment of 112000/- only 02 installment is remaining.
+
+
+
+
+Regards,
+
+
+Saket Logistics
+
+
+
+> [1]
+> 
+>  DEAR SIR/MA&#39;AM,
+> 
+> Lendingkart team wishes you an amazing 2017. To make it better this
+> year we are offering you EVEN BETTER OFFERS, INTEREST RATES AND
+> CONVENIENT ACCESS TO FUNDS WITH ZERO PRE-PAYMENT CHARGES.
+> 
+> Why should businesses like you leverage Lendingkart-
+> 
+>  	* Collateral-free working capital loans upto Rs. 1Cr
+>  	* Instant funds - Approval within 72 hrs
+>  	* Flexible loan terms and tenure with zero pre-payment charges
+>  	* Attractive Interest Rates
+> 
+> You can apply if -
+> 
+>  	* Your annual turnover is more than 6 Lacs
+>  	* Your business is atleast 6 months old
+> 
+> Get Started Now!
+> 
+> For any assistance, please feel free to get in touch on 080-39534900
+> or email us at info@lendingkart.com
+> 
+> Regards,
+> The Lendingkart Team
+> 
+>  301-302 Primate, Opp Mother Milk Palace, Near Judges Bunglow Cross
+> Roads, Bodakdev, Ahmedabad-380 054
+> 
+> Copyright © Lendingkart [2] | 2016 | All rights reserved
+>  Follow Us
+>  [3] [4] [5]
+> 
+>  You are subscribed to LendingKart as pankaj@saketlogistics.com. If
+> you do not wish to receive any further communications, please click
+> here [6].
+> 
+> Links:
+> ------
+> [1]
+> http://lendingkart.lkmailers.com/tr/r/2/451018/198352/cGFua2FqQHNha2V0bG9naXN0aWNzLmNvbQ%3D%3D/0/W10%3D
+> [2]
+> http://lendingkart.lkmailers.com/tr/r/2/451018/198352/cGFua2FqQHNha2V0bG9naXN0aWNzLmNvbQ%3D%3D/3/W10%3D
+> [3]
+> http://lendingkart.lkmailers.com/tr/r/2/451018/198352/cGFua2FqQHNha2V0bG9naXN0aWNzLmNvbQ%3D%3D/4/W10%3D
+> [4]
+> http://lendingkart.lkmailers.com/tr/r/2/451018/198352/cGFua2FqQHNha2V0bG9naXN0aWNzLmNvbQ%3D%3D/5/W10%3D
+> [5]
+> http://lendingkart.lkmailers.com/tr/r/2/451018/198352/cGFua2FqQHNha2V0bG9naXN0aWNzLmNvbQ%3D%3D/6/W10%3D
+> [6]
+> http://lendingkart.lkmailers.com/tr/u/2/451018/198352/cGFua2FqQHNha2V0bG9naXN0aWNzLmNvbQ%3D%3D
+
+--1487238108-eximdsn-1832312881--

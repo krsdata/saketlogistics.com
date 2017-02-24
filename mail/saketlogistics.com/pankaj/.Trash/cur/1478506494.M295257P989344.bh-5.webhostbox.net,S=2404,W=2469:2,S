@@ -1,0 +1,65 @@
+Return-path: <>
+Envelope-to: pankaj@saketlogistics.com
+Delivery-date: Mon, 07 Nov 2016 08:14:42 +0000
+Received: from mailnull by bh-5.webhostbox.net with local (Exim 4.86_1)
+	id 1c3f4j-0049EK-Sr
+	for pankaj@saketlogistics.com; Mon, 07 Nov 2016 08:14:41 +0000
+X-Failed-Recipients: jayantkotwal@bharatforge.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@bh-5.webhostbox.net>
+To: pankaj@saketlogistics.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1478506481-eximdsn-1804289383
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1c3f4j-0049EK-Sr@bh-5.webhostbox.net>
+Date: Mon, 07 Nov 2016 08:14:41 +0000
+
+--1478506481-eximdsn-1804289383
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  jayantkotwal@bharatforge.com
+    This message has been rejected because it has
+    a potentially executable attachment "bharat fordge.scr"
+    This form of attachment has been used by
+    recent viruses or other malware.
+    If you meant to send this file then please
+    package it up as a zip file and resend it.
+
+--1478506481-eximdsn-1804289383
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; bh-5.webhostbox.net
+
+Action: failed
+Final-Recipient: rfc822;jayantkotwal@bharatforge.com
+Status: 5.0.0
+
+--1478506481-eximdsn-1804289383
+Content-type: text/rfc822-headers
+
+Return-path: <pankaj@saketlogistics.com>
+Received: from [127.0.0.1] (port=36678 helo=saketlogistics.com)
+	by bh-5.webhostbox.net with esmtpa (Exim 4.86_1)
+	(envelope-from <pankaj@saketlogistics.com>)
+	id 1c3f4j-0049Dq-E4
+	for jayantkotwal@bharatforge.com; Mon, 07 Nov 2016 08:14:41 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="=_d7734e341791500583a58f4e9e4ce786"
+Date: Mon, 07 Nov 2016 08:14:41 +0000
+From: pankaj@saketlogistics.com
+To: jayantkotwal@bharatforge.com
+Subject: Logistics Proposal from saket logistics
+Message-ID: <b3abf1c409211353ab30918968cf0358@saketlogistics.com>
+X-Sender: pankaj@saketlogistics.com
+User-Agent: Roundcube Webmail/1.0.6
+X-Authenticated_sender: pankaj@saketlogistics.com
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1478506481-eximdsn-1804289383--

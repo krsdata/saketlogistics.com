@@ -1,0 +1,155 @@
+Return-Path: <mptpltd@gmail.com>
+Delivered-To: pankaj@saketlogistics.com
+Received: from host
+	by host.infowayindia.in (Dovecot) with LMTP id kTCGK0F+T1hyRAAARNjblg
+	for <pankaj@saketlogistics.com>; Tue, 13 Dec 2016 04:51:14 +0000
+Return-path: <mptpltd@gmail.com>
+Envelope-to: pankaj@saketlogistics.com
+Delivery-date: Tue, 13 Dec 2016 04:51:14 +0000
+Received: from mail-io0-f180.google.com ([209.85.223.180]:34555)
+	by host with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <mptpltd@gmail.com>)
+	id 1cGf3T-0004YP-8r
+	for pankaj@saketlogistics.com; Tue, 13 Dec 2016 04:51:12 +0000
+Received: by mail-io0-f180.google.com with SMTP id p42so36937805ioo.1
+        for <pankaj@saketlogistics.com>; Mon, 12 Dec 2016 20:50:46 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=8lQKIz1svlKDPQ2bwHkjQqqFhYbMHPSdFk5t2KNqqKo=;
+        b=NABprH7nUcAU9lvzxD8WDTJllfIojcuEu14PSAd9PoI1Lm2zfYmH0vzgYdUT+vfHT6
+         P3SUtO1loFsIlsVDgMu8TccbvCbhpQ6ChdKP0XY5uTqT+2/h7GcH1HwHSsZefEQZYo1Y
+         Td2V93khumueSLGYhZXd0ecU+mXb1tt1Uv2Q90lMSBGAIWw23UV4P0Li5FH2/WIXhI/3
+         iB/84FMn31yddgymCP/cqhgtwh9ENDLMXNa/kGeKG9LuiBrp0Vf5Sp5PaURQov0CCVsP
+         ytfvyfffRsmq/CASVWln8LkgLi1EBYgX6oZjMUHMzzxLXHamlcoiDIusw94ATEqRdLe+
+         e7jw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=8lQKIz1svlKDPQ2bwHkjQqqFhYbMHPSdFk5t2KNqqKo=;
+        b=BzCeIWz7g46pkBbfxeNyeiGx5gmh7Rk2o/qI1fxDa5h8cf1yF3lumjm3ZUG7txZS+e
+         CnD5Z9iD55E81fT9HhDh1WmJPbllByaklfHGhSUEmtiW/K79ZRl7zdTiTbcUMH8sdqL3
+         Of2NGZ0dvO98sve/Ac+4PNRNd+8sYIvPi81V58iPFyQIrSOAord7UCSWr2y1E7IVWsTv
+         Ajl6lNSDfnbxtOkptSEQbd8bqGmWKeRbGr9GGkPIxxIPE36c8WtiZVClvtbZdRJKj2gJ
+         1tjsxWU8YAG2xukKB+VQLcZhuCGdHihL8VaU5Nm9601QoKKXKXLuzO0r228Pl0+bp3ql
+         dsww==
+X-Gm-Message-State: AKaTC0217D3G1JJT2G1eFc1zkS31qudLMcsqLS5xfKWRzIAbbHJJT8IF00jDEg67CyVPa/AdHScWufrpTjp3Ag==
+X-Received: by 10.36.47.132 with SMTP id j126mr938507itj.108.1481604625634;
+ Mon, 12 Dec 2016 20:50:25 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.64.90.51 with HTTP; Mon, 12 Dec 2016 20:50:25 -0800 (PST)
+From: Fenil Patel <mptpltd@gmail.com>
+Date: Tue, 13 Dec 2016 10:20:25 +0530
+Message-ID: <CAKpOKyqiovun6J5PynYg=ijaOytMD-YN_+1OFa0KMNck7Z5HTQ@mail.gmail.com>
+Subject: FORMAT _ MPTRANSFORMERS
+To: pankaj@saketlogistics.com
+Content-Type: multipart/alternative; boundary=001a1143d740689c51054382f581
+
+--001a1143d740689c51054382f581
+Content-Type: text/plain; charset=UTF-8
+
+FORMAT :
+
+
+TO WHOMSOEVER IT MAY CONCERN
+
+THE TRANSFORMER 6.5 MVA ALONG WITH RADIATORS AND ACCESSORIES WHICH WERE
+SENT FROM INDORE TO GOA VIA OUR TRANSPORT BILL TT NO. __________ . FROM M/S
+MP TRANSFORMERS TO M/S SHIVAM ISPAT, GOA. THERE WAS DAMAGE IN 3 NOS
+RADIATORS WHILE SHIPMENT.
+
+
+-- 
+
+Regards ,
+*Fenil Patel*
+For M.P. Transformers (P) Ltd.
+Right on the top in Transformer Technology & Quality.
+Manufacturing Quality Transformers and Providing Services since 1966.
+115/A Industrial Estate,Polo ground.
+Indore(M.P)India.
+Mobile:+91 98932 30343 :+91 98935 50534
+Phone (O)0731-4030343(Fax) 0731-4030534
+Email - mptpltd@yahoo.com
+
+## DISCLAIMER : This email and any files transmitted with it are
+confidential and intended solely for the use of the individual or entity to
+whom they are addressed. If you have received this email in error please
+notify the sender immediately & delete this e-mail from your system, you
+may not copy this message or disclose its contents to anyone. Finally, the
+recipient should check this email and any attachments for the presence of
+viruses. The company accepts no liability for any damage caused by any
+virus transmitted by this email.
+
+M.P. Transformers (P) Ltd. Indore ( INDIA )
+mptpltd@gmail.com
+
+--001a1143d740689c51054382f581
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">FORMAT :=C2=A0<div><br></div><div><br></div><div>TO WHOMSO=
+EVER IT MAY CONCERN=C2=A0</div><div><br></div><div>THE TRANSFORMER 6.5 MVA =
+ALONG WITH RADIATORS AND ACCESSORIES WHICH WERE SENT FROM INDORE TO GOA VIA=
+ OUR TRANSPORT BILL TT NO. __________ . FROM M/S MP TRANSFORMERS TO M/S SHI=
+VAM ISPAT, GOA. THERE WAS DAMAGE IN 3 NOS RADIATORS WHILE SHIPMENT.</div><d=
+iv>=C2=A0=C2=A0<br clear=3D"all"><div><br></div>-- <br><div class=3D"gmail_=
+signature" data-smartmail=3D"gmail_signature"><div style=3D"font-size:13px"=
+></div><div style=3D"font-family:arial,helvetica,clean,sans-serif;font-size=
+:16px"><br></div><div style=3D"font-family:arial,helvetica,clean,sans-serif=
+;font-size:16px"><div style=3D"font-family:verdana,helvetica,sans-serif;fon=
+t-size:11px"><span style=3D"font-family:garamond,&#39;new york&#39;,times,s=
+erif;font-weight:bold">Regards ,</span><br></div><div style=3D"font-family:=
+arial;font-size:small"><font face=3D"garamond, new york, times, serif" size=
+=3D"3"><b>Fenil Patel</b></font></div><div style=3D"font-family:verdana,hel=
+vetica,sans-serif;font-size:11px"><span style=3D"font-family:garamond,&#39;=
+new york&#39;,times,serif"><span style=3D"font-weight:bold;font-size:16px">=
+For M.P. Transformers (P) Ltd.</span><br></span></div><div style=3D"font-fa=
+mily:verdana,helvetica,sans-serif;font-size:11px"><span style=3D"font-famil=
+y:garamond,&#39;new york&#39;,times,serif;line-height:19px;font-size:13px">=
+Right on the top in Transformer Technology &amp; Quality.</span></div><div =
+style=3D"font-family:verdana,helvetica,sans-serif;font-size:11px"><span sty=
+le=3D"font-family:garamond,&#39;new york&#39;,times,serif;font-weight:bold;=
+font-style:italic;color:rgb(127,127,0);font-size:13px">Manufacturing Qualit=
+y Transformers and Providing Services since 1966.</span></div><div style=3D=
+"font-family:verdana,helvetica,sans-serif;font-size:11px"><span style=3D"fo=
+nt-family:garamond,&#39;new york&#39;,times,serif;font-size:16px">115/A Ind=
+ustrial Estate,Polo ground.<br></span></div><div style=3D"font-family:verda=
+na,helvetica,sans-serif;font-size:11px"><span style=3D"font-family:garamond=
+,&#39;new york&#39;,times,serif;font-size:16px"><div style=3D"line-height:1=
+5px"><span style=3D"line-height:19px"><span style=3D"line-height:12px">Indo=
+re(M.P)</span><span style=3D"line-height:12px">India.</span><br></span></di=
+v><div style=3D"line-height:15px">Mobile:+91 98932 30343=C2=A0:+91 98935 50=
+534<br></div></span></div><div style=3D"font-family:verdana,helvetica,sans-=
+serif;font-size:11px"><span style=3D"font-family:garamond,&#39;new york&#39=
+;,times,serif;font-size:16px">Phone (O)0731-4030343(Fax) 0731-4030534</span=
+></div><div style=3D"font-family:verdana,helvetica,sans-serif;font-size:11p=
+x"><span style=3D"font-family:garamond,&#39;new york&#39;,times,serif;font-=
+size:16px">Email - <a href=3D"mailto:mptpltd@yahoo.com" target=3D"_blank">m=
+ptpltd@yahoo.com</a></span></div><div style=3D"font-family:verdana,helvetic=
+a,sans-serif;font-size:11px"><span style=3D"font-family:garamond,&#39;new y=
+ork&#39;,times,serif;font-size:16px"><span style=3D"color:rgb(0,0,191)">=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0</span><br></span></div><div style=3D"font-family:verdana,helveti=
+ca,sans-serif;font-size:11px"><span style=3D"font-family:garamond,&#39;new =
+york&#39;,times,serif;font-weight:bold;color:rgb(0,0,191);font-size:medium"=
+></span></div><div style=3D"font-family:verdana,helvetica,sans-serif;font-s=
+ize:11px"><span style=3D"font-family:garamond,&#39;new york&#39;,times,seri=
+f;color:rgb(91,91,91);font-size:10px">## DISCLAIMER : This email and any fi=
+les transmitted with it are confidential and intended solely for the use of=
+ the individual or entity to whom they are addressed. If you have received =
+this email in error please notify the sender immediately &amp; delete this =
+e-mail from your system, you may not copy this message or disclose its cont=
+ents to anyone. Finally, the recipient should check this email and any atta=
+chments for the presence of viruses. The company accepts no liability for a=
+ny damage caused by any virus transmitted by this email.=C2=A0<br><br>M.P. =
+Transformers (P) Ltd. Indore ( INDIA )<br></span></div><div style=3D"font-f=
+amily:verdana,helvetica,sans-serif;font-size:11px"><span style=3D"font-fami=
+ly:garamond,&#39;new york&#39;,times,serif;color:rgb(91,91,91);font-size:10=
+px"><a href=3D"mailto:mptpltd@gmail.com" target=3D"_blank">mptpltd@gmail.co=
+m</a></span></div></div></div>
+</div></div>
+
+--001a1143d740689c51054382f581--

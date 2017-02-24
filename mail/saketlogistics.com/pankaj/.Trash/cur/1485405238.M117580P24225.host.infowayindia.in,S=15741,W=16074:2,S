@@ -1,0 +1,333 @@
+Return-Path: <bounce-md_30875993.58897c0c.v1-8906212e50d947e7a37d89c6363ed2b7@mandrillapp.com>
+Delivered-To: pankaj@saketlogistics.com
+Received: from host.infowayindia.in
+	by host.infowayindia.in (Dovecot) with LMTP id loTAMzV8iVihXgAARNjblg
+	for <pankaj@saketlogistics.com>; Thu, 26 Jan 2017 04:33:58 +0000
+Return-path: <bounce-md_30875993.58897c0c.v1-8906212e50d947e7a37d89c6363ed2b7@mandrillapp.com>
+Envelope-to: pankaj@saketlogistics.com
+Delivery-date: Thu, 26 Jan 2017 04:33:58 +0000
+Received: from mail187-1.suw11.mandrillapp.com ([198.2.187.1]:33224)
+	by host.infowayindia.in with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <bounce-md_30875993.58897c0c.v1-8906212e50d947e7a37d89c6363ed2b7@mandrillapp.com>)
+	id 1cWbkz-0006IP-1u
+	for pankaj@saketlogistics.com; Thu, 26 Jan 2017 04:33:57 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=lendingkart.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type; i=noreply@lendingkart.com;
+ bh=hlZtKzTf7ZBy+GrDvDaRbW+HYi4=;
+ b=l4bVQ04Tbe8E5eqlXl/W9+b/UA8e6qClKNDvJPIwnGghV2uRIJbHfuzha15CL9jjP8kuyZ9jZK4o
+   4kkUetMzv1bDRSPDrbHw4Xyexae8/xAHVm5UlM4ReBYrhHDYA4JiSamBzDZgJWobNo3Q9ZzCk2TB
+   aWbqGimD73hq5w+EvRk=
+Received: from pmta01.mandrill.prod.suw01.rsglab.com (127.0.0.1) by mail187-1.suw11.mandrillapp.com id hh5u38174i44 for <pankaj@saketlogistics.com>; Thu, 26 Jan 2017 04:33:16 +0000 (envelope-from <bounce-md_30875993.58897c0c.v1-8906212e50d947e7a37d89c6363ed2b7@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1485405196; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : From : 
+ Subject : Date : X-Mandrill-User : List-Unsubscribe; 
+ bh=SQbE93ePeEOR++ziz9Izf+6GcFnT52oCFGpLmWiFCIM=; 
+ b=bP5BvA+nUqeZJrsKytP0Ryx1hmKvRrKa/jmyUoyNikqpwTCrjCLJPQ0a4NOm533I1iSfFa
+ 21CkcVHm+OAQ65ADZBQihmT3AbDc7XochL3bHdc84Eks3WtcZ4l1w2Y13n7tmDMRr/n39zCh
+ zbHEylMyrVDMO13KOI4VemAAqpzcU=
+From: Lendingkart <noreply@lendingkart.com>
+Subject: Lendingkart Finance Limited(Formerly known as Aadri Infin Limited) : Gentle reminder of NACH Auto Debit for installment due on 28-01-2017
+Received: from [54.169.208.116] by mandrillapp.com id 8906212e50d947e7a37d89c6363ed2b7; Thu, 26 Jan 2017 04:33:16 +0000
+To: <pankaj@saketlogistics.com>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30875993.8906212e50d947e7a37d89c6363ed2b7
+X-Mandrill-User: md_30875993
+Message-Id: <30875993.20170126043316.58897c0c1970b7.18545588@mail187-1.suw11.mandrillapp.com>
+Date: Thu, 26 Jan 2017 04:33:16 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-oxE67LBjtLlKIN7lIY2UVA"
+
+--_av-oxE67LBjtLlKIN7lIY2UVA
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+        Document <https://lendingkart.com/>         SAKET LOGISTICS
+
+  Dear Customer,
+
+  
+
+  We would like to remind you that your installment of Rs. 1,12,000 /-
+(Rupees One Lakh Twelve Thousand Only) of CL-Contract Id :  is due on
+28-01-2017 . 
+
+  Since NACH mandate has been registered with the bank, the instalment
+amount will be debited from your bank account on the due date. In light of
+the same, we request you to please maintain sufficient balance in your bank
+account registered with us so that the instalment payment can be processed.
+
+
+  You can reach us for any assistance /clarifications through any of our
+access channels mentioned below:
+
+ 
+
+ 
+ Email us - alert.collection@lendingkart.com
+<mailto:alert.collection@lendingkart.com>
+
+ Call us - +91-9033014631/30/80
+
+ Thank you!
+
+ Please ignore this email, if already paid.
+
+ *Collections Team*
+
+ *Lendingkart Finance Limited(Formerly known as Aadri Infin Limited)*
+
+ *201-Primate, Opp Mother Milk Palace, *
+
+ *Near Judges Bunglow Cross Road Bodakdev, *
+
+ *Ahmedabad =E2=80=93 380054, India M: +91-9033014631/30/80 *
+
+        Earn a cashout of Rs10,000 by refering friends to
+Lendingkart.*Refer Now!* <http://www2.lendingkart.com/referral> 
+ 
+
+  301-302 Primate, Opp Mother Milk Palace, Near Judges Bunglow Cross Roads,
+Bodakdev, Ahmedabad-380 054 
+
+ Copyright =C2=A9 Lendingkart <http://lendingkart.com/> | 2016 | All rights
+reserved 
+   Follow Us <https://www.facebook.com/lendingkart/>
+<https://twitter.com/Lendingkart>
+<https://www.linkedin.com/company/lendingkart>
+
+--_av-oxE67LBjtLlKIN7lIY2UVA
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html lang=3D"en">
+ <head>
+  <meta charset=3D"UTF-8">
+  <meta name=3D"Generator" content=3D"EditPlus=C2=AE">
+  <meta name=3D"Author" content=3D"">
+  <meta name=3D"Keywords" content=3D"">
+  <meta name=3D"Description" content=3D"">
+  <title>Document</title>
+     
+<link href=3D"https://fonts.googleapis.com/css?family=3DOpen+Sans:400,600,3=
+00italic,300" rel=3D"stylesheet" type=3D"text/css">
+
+ </head>
+ <body>
+  <table style=3D"WIDTH:800px;COLOR:#3e3d3d;background-color: #fff;" cellsp=
+acing=3D"0" cellpadding=3D"0" align=3D"center" border=3D"0">
+  <tbody>
+  <tr>
+    <td bgcolor=3D"#055895" valign=3D"middle" colspan=3D"2">
+      <table style=3D"COLOR:#3e3d3d" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"100%" border=3D"0">
+        <tbody>
+        <tr>
+            <td style=3D"PADDING-BOTTOM:10px;PADDING-TOP:10px;PADDING-LEFT:=
+15px;MARGIN:0px;PADDING-RIGHT:15px;background-color: #ffffff;" width=3D"100=
+%"><a href=3D"http://mandrillapp.com/track/click/30875993/lendingkart.com?p=
+=3DeyJzIjoiT0E1eXUybEpvMUZ2d2M0bUFtTFZfVVZVOUg0IiwidiI6MSwicCI6IntcInVcIjoz=
+MDg3NTk5MyxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2xlbmRpbmdrYXJ0LmNvbVx=
+cXC9cIixcImlkXCI6XCI4OTA2MjEyZTUwZDk0N2U3YTM3ZDg5YzYzNjNlZDJiN1wiLFwidXJsX2=
+lkc1wiOltcIjI1M2VmYmUxMjE2NDg5M2NkZjI2ZmI4OWU0Njc2ZmU0ZjA0MTI1M2VcIl19In0" =
+target=3D"_blank"><img alt=3D"Logo" src=3D"http://lendingkart.com/img/adri.=
+png" class=3D"CToWUd"></a> </td>
+          <td style=3D"MARGIN:0px" valign=3D"middle" width=3D"10%"></td></t=
+r></tbody></table></td></tr>
+  <tr>
+    <td style=3D"PADDING-BOTTOM: 15px;
+    PADDING-TOP: 0px;
+    PADDING-LEFT: 15px;
+    PADDING-RIGHT: 15px;
+    BORDER-TOP: #E8E5E5 1px solid;
+    BORDER-RIGHT: #E8E5E5 1px solid;
+    WIDTH: 800px;
+    BORDER-BOTTOM: #E8E5E5 1px solid;
+    COLOR: #3e3d3d;
+    BORDER-LEFT: #E8E5E5 1px solid;
+    background-color: #fff;
+    " colspan=3D"2">
+      <table style=3D"COLOR:#3e3d3d" cellspacing=3D"5" cellpadding=3D"1" wi=
+dth=3D"800" border=3D"0">
+        <tbody>
+        <tr>
+        
+          
+          <td style=3D"COLOR:#000;PADDING-BOTTOM:10px;PADDING-TOP:10px;FONT=
+:12px/18px arial,helvetica,sans-serif;PADDING-LEFT:10px;PADDING-RIGHT:10px;=
+font-family: 'Open Sans', sans-serif;
+ font-size: 15px;
+ font-style: normal;
+ font-weight: 400;
+color:#292929;">
+              <p class=3D"MsoNoSpacing" align=3D"center" style=3D"text-alig=
+n:center"><span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;=
+,serif;color:black">SAKET LOGISTICS</span><span style=3D"font-size:12.0pt;f=
+ont-family:&quot;Bodoni MT&quot;,serif;color:black"></span></p>
+               <div align=3D"justify">
+              
+                   <p class=3D"MsoNoSpacing" style=3D"text-align:justify"><=
+span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;colo=
+r:black">Dear Customer,</span></p> 
+                  <p class=3D"MsoNoSpacing" style=3D"text-align:justify"><s=
+pan style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color=
+:black">&nbsp;</span></p>
+<p class=3D"MsoNoSpacing" style=3D"text-align:justify"><span style=3D"font-=
+size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:black">
+                      
+                      We would like to remind you that your installment of =
+Rs.&nbsp;<span>1,12,000</span>&nbsp;/-&nbsp;(<span>Rupees One Lakh Twelve T=
+housand  Only</span>)&nbsp;of CL-Contract Id :&nbsp;<span></span>&nbsp;is d=
+ue on&nbsp;<span>28-01-2017</span>&nbsp;. 
+    </span></p>
+                  <p class=3D"MsoNoSpacing" style=3D"text-align:justify"><s=
+pan style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color=
+:black">
+                      Since NACH mandate has been registered with the bank,=
+ the instalment amount will be debited from your bank account on the due da=
+te. In light of the same, we request you to please maintain sufficient bala=
+nce in your bank account registered with us so that the instalment payment =
+can be processed.
+                      </span></p>
+                  <p class=3D"MsoNoSpacing" style=3D"text-align:justify"><s=
+pan style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color=
+:black">
+                      You can reach us for any assistance /clarifications t=
+hrough any of our access channels mentioned below:</span><br><br>
+                      </p>
+                   </div>
+              <p class=3D"MsoNoSpacing" style=3D"text-align:justify"><span =
+style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:bla=
+ck">Email us&nbsp;-&nbsp;<a href=3D"mailto:alert.collection@lendingkart.com=
+" target=3D"_blank">alert.collection@lendingkart.com</a><br><br></span></p>
+<p class=3D"MsoNoSpacing" style=3D"text-align:justify"><span style=3D"font-=
+size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:black">Call us&nb=
+sp;-&nbsp;+91-9033014631/30/80</span></p>
+                
+              
+              <p class=3D"MsoNoSpacing" style=3D"text-align:justify"><span =
+style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:bla=
+ck">Thank you!</span></p>
+              
+              <p class=3D"MsoNoSpacing" style=3D"text-align:justify"><span =
+style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:bla=
+ck">Please ignore this email, if already paid.</span></p>
+              
+              <p class=3D"MsoNoSpacing" style=3D"text-align:justify"><b><i>=
+<span style=3D"font-size:11.0pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:black">Collections Team</span></i></b></p> 
+<p class=3D"MsoNoSpacing" style=3D"text-align:justify"><b><i><span style=3D=
+"font-size:11.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:black">Lend=
+ingkart Finance Limited(Formerly known as Aadri Infin Limited)</span></i></=
+b><b><span style=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,seri=
+f;color:black"></span></b></p>
+            <p class=3D"MsoNoSpacing" style=3D"text-align:justify"><i><span=
+ style=3D"font-size:11.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:bl=
+ack">201-Primate, Opp Mother Milk Palace,&nbsp;</span></i><span style=3D"fo=
+nt-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:black"></span>=
+</p>
+            <p class=3D"MsoNoSpacing" style=3D"text-align:justify"><i><span=
+ style=3D"font-size:11.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:bl=
+ack">Near Judges Bunglow Cross Road Bodakdev,&nbsp;</span></i><span style=
+=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:black"><=
+/span></p>
+              
+<p class=3D"MsoNoSpacing" style=3D"text-align:justify"><i><span style=3D"fo=
+nt-size:11.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:black">Ahmedab=
+ad =E2=80=93 380054, India  M: +91-9033014631/30/80&nbsp;</span></i><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Bodoni MT&quot;,serif;color:blac=
+k"></span></p>
+           </td>
+          
+          </tr></tbody></table></td></tr>
+          <tr>
+    <td height=3D"5" colspan=3D"2"></td></tr>
+  
+
+  </tbody>
+  </table>
+    <div style=3D"width: 800px;margin:auto;display: flex;" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0">
+    <div style=3D"FONT-SIZE:10px;COLOR:#aeabab;PADDING-BOTTOM:5px;PADDING-T=
+OP:5px;PADDING-LEFT:15px;MARGIN:0px;LETTER-SPACING:normal;LINE-HEIGHT:11px;=
+PADDING-RIGHT:15px" colspan=3D"2"><span style=3D"    font-family: 'Open San=
+s', sans-serif;
+     font-weight: lighter;
+    font-style: normal;
+    font-size: 12px;
+COLOR:#676767;">Earn a cashout of Rs10,000 by refering friends to Lendingka=
+rt.<a href=3D"http://mandrillapp.com/track/click/30875993/www2.lendingkart.=
+com?p=3DeyJzIjoiZ3dSNmgwY2dqV2MxUGpBTHdWeGN4Y2laQ0drIiwidiI6MSwicCI6IntcInV=
+cIjozMDg3NTk5MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3Mi5sZW5kaW5na2=
+FydC5jb21cXFwvcmVmZXJyYWxcIixcImlkXCI6XCI4OTA2MjEyZTUwZDk0N2U3YTM3ZDg5YzYzN=
+jNlZDJiN1wiLFwidXJsX2lkc1wiOltcIjYzM2FmZGRhNzE1MDgxMDEwNTRiOWNhZjU1MGY5MzMx=
+ZDhkNDkzZjZcIl19In0" target=3D"_blank" style=3D"color: #676767 !important;"=
+><b>Refer Now!</b></a></span> <br>
+    <br><br>
+   <span style=3D"font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    font-style: normal;
+    font-size: 9px;
+    color: #676767;"> 301-302 Primate,
+Opp Mother Milk Palace,
+Near Judges Bunglow Cross Roads,
+Bodakdev, Ahmedabad-380 054</span>
+<br><br>
+<span style=3D"font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    font-style: normal;
+    font-size: 9px;
+color: #676767;">Copyright =C2=A9 <a href=3D"http://mandrillapp.com/track/c=
+lick/30875993/lendingkart.com?p=3DeyJzIjoiUmNsclpjYWRzMUJNR1Z0REhHWXFma2dBR=
+jlFIiwidiI6MSwicCI6IntcInVcIjozMDg3NTk5MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxc=
+XC9cXFwvbGVuZGluZ2thcnQuY29tXFxcL1wiLFwiaWRcIjpcIjg5MDYyMTJlNTBkOTQ3ZTdhMzd=
+kODljNjM2M2VkMmI3XCIsXCJ1cmxfaWRzXCI6W1wiY2JiZTNkNTFkN2ZkZjA0MTQyOTUzZWE3MT=
+BjMTBiYmRhMWY3ZGI3YVwiXX0ifQ" style=3D"color: #676767;!important">Lendingka=
+rt</a> | 2016 | All rights reserved</span>
+</div>
+ <div style=3D"margin-left: 190px;margin-top: 10px;">
+<span style=3D"    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    font-style: normal;
+    font-size: 15px;
+    color: #676767;">        
+Follow Us</span>
+<div>
+   <a href=3D"http://mandrillapp.com/track/click/30875993/www.facebook.com?=
+p=3DeyJzIjoiNXpCcE4zLXN3T1ZQeEZoSzRMdzViWmpYRVA4IiwidiI6MSwicCI6IntcInVcIjo=
+zMDg3NTk5MyxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5mYWNlYm9vay5jb2=
+1cXFwvbGVuZGluZ2thcnRcXFwvXCIsXCJpZFwiOlwiODkwNjIxMmU1MGQ5NDdlN2EzN2Q4OWM2M=
+zYzZWQyYjdcIixcInVybF9pZHNcIjpbXCJlZDI4OGZkNzRlM2ZjZjYwYjU5NjdkN2JiY2M2YTlk=
+MDIxZjRhYmZhXCJdfSJ9" target=3D"_blank"><img alt=3D"Facebook" src=3D"http:/=
+/lendingkart.com/img/fbtemplate.png" width=3D"30" height=3D"29" class=3D"CT=
+oWUd"></a> 
+    <a href=3D"http://mandrillapp.com/track/click/30875993/twitter.com?p=3D=
+eyJzIjoiQS0xZnIxZnhyV3Y3OXA1SWtBc3g2Rmxxb3Q0IiwidiI6MSwicCI6IntcInVcIjozMDg=
+3NTk5MyxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3R3aXR0ZXIuY29tXFxcL0xlbm=
+RpbmdrYXJ0XCIsXCJpZFwiOlwiODkwNjIxMmU1MGQ5NDdlN2EzN2Q4OWM2MzYzZWQyYjdcIixcI=
+nVybF9pZHNcIjpbXCJhMjI0NDY0NzY4MTM1NGMwYjQyOTIwYjU5ZmNlYmJkNTA1ZDcyMjgzXCJd=
+fSJ9" target=3D"_blank"><img alt=3D"Twitter" src=3D"http://lendingkart.com/=
+img/intemplate.png" width=3D"30" height=3D"29" class=3D"CToWUd"></a> 
+    <a href=3D"http://mandrillapp.com/track/click/30875993/www.linkedin.com=
+?p=3DeyJzIjoiX3huOERxSDd1b2t5eUR2OFVUdmhQNEVvN2E4IiwidiI6MSwicCI6IntcInVcIj=
+ozMDg3NTk5MyxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5saW5rZWRpbi5jb=
+21cXFwvY29tcGFueVxcXC9sZW5kaW5na2FydFwiLFwiaWRcIjpcIjg5MDYyMTJlNTBkOTQ3ZTdh=
+MzdkODljNjM2M2VkMmI3XCIsXCJ1cmxfaWRzXCI6W1wiOTNjNjBlNzZkNGUzMzM3OTMwNGIzODF=
+jYTIyNmM2MWUzNzkzYWNkYlwiXX0ifQ" target=3D"_blank"><img alt=3D"Linkedin" sr=
+c=3D"http://lendingkart.com/img/ttrtemplate.png" width=3D"30" height=3D"29"=
+ class=3D"CToWUd"></a>
+    </div>
+  </div> 
+  
+</div>
+     <div style=3D"height:2px;background-color:#f38532;width: 800px;margin:=
+auto;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"></=
+div>   
+ <img src=3D"http://mandrillapp.com/track/open.php?u=3D30875993&id=3D890621=
+2e50d947e7a37d89c6363ed2b7" height=3D"1" width=3D"1"></body>
+</html>
+
+--_av-oxE67LBjtLlKIN7lIY2UVA--
+
