@@ -1,0 +1,6 @@
+[25-Nov-2017 20:50:57 UTC] PHP Fatal error:  Call to undefined function __() in /home/saketlogistics/public_html/wp-admin/user/menu.php on line 10
+[25-Nov-2017 20:54:48 UTC] PHP Fatal error:  Call to undefined function __() in /home/saketlogistics/public_html/wp-admin/user/menu.php on line 10
+[11-Jan-2019 20:40:03 Asia/Calcutta] PHP Warning:  require_once(/home/saketlogistics/public_html/wp-admin/user/admin.php): failed to open stream: No such file or directory in /home/saketlogistics/public_html/wp-admin/user/credits.php on line 11
+[11-Jan-2019 20:40:03 Asia/Calcutta] PHP Fatal error:  require_once(): Failed opening required '/home/saketlogistics/public_html/wp-admin/user/admin.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/saketlogistics/public_html/wp-admin/user/credits.php on line 11
+[11-Jan-2019 20:40:03 Asia/Calcutta] PHP Warning:  require_once(/home/saketlogistics/public_html/wp-admin/user/admin.php): failed to open stream: No such file or directory in /home/saketlogistics/public_html/wp-admin/user/credits.php on line 11
+[11-Jan-2019 20:40:03 Asia/Calcutta] PHP Fatal error:  require_once(): Failed opening required '/home/saketlogistics/public_html/wp-admin/user/admin.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/saketlogistics/public_html/wp-admin/user/credits.php on line 11

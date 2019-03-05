@@ -1,0 +1,1 @@
+[28-Aug-2018 09:51:29 Asia/Calcutta] PHP Fatal error:  Call to undefined function plugin_basename() in /home/saketlogistics/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19

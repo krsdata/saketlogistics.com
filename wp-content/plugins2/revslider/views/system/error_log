@@ -1,0 +1,12 @@
+[09-Aug-2017 16:06:21 UTC] PHP Fatal error:  Call to undefined function _e() in /home/saketlogistics/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[10-Aug-2017 20:58:06 UTC] PHP Fatal error:  Call to undefined function _e() in /home/saketlogistics/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[10-Aug-2017 20:59:17 UTC] PHP Fatal error:  Cannot access self:: when no class scope is active in /home/saketlogistics/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[11-Aug-2017 03:00:05 UTC] PHP Fatal error:  Cannot access self:: when no class scope is active in /home/saketlogistics/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[11-Aug-2017 08:40:43 UTC] PHP Fatal error:  Cannot access self:: when no class scope is active in /home/saketlogistics/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[11-Aug-2017 15:18:26 UTC] PHP Fatal error:  Cannot access self:: when no class scope is active in /home/saketlogistics/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[11-Aug-2017 21:22:58 UTC] PHP Fatal error:  Cannot access self:: when no class scope is active in /home/saketlogistics/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[18-Oct-2017 20:35:39 UTC] PHP Fatal error:  Call to undefined function _e() in /home/saketlogistics/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[21-Oct-2017 03:06:12 UTC] PHP Fatal error:  Call to undefined function _e() in /home/saketlogistics/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[21-Oct-2017 11:56:40 UTC] PHP Fatal error:  Cannot access self:: when no class scope is active in /home/saketlogistics/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[21-Oct-2017 19:47:04 UTC] PHP Fatal error:  Cannot access self:: when no class scope is active in /home/saketlogistics/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[22-Oct-2017 07:48:59 UTC] PHP Fatal error:  Cannot access self:: when no class scope is active in /home/saketlogistics/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3

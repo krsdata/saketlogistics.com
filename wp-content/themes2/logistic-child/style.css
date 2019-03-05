@@ -1,0 +1,16 @@
+/*
+Theme Name: Logistic - Child
+Theme URI: http://logistic.freevision.me/
+Author: freevision
+Author URI: http://themeforest.net/user/freevision/portfolio
+Description: Logistic is a premium responsive Wordpress theme created especially for logistic & transportation companies, offices.
+Version: 2.2
+Text Domain: vp_textdomain
+Domain Path: /lang
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, brown, orange, white, yellow, tan, light, one-column, two-columns, right-sidebar, fluid-layout, fixed-layout, responsive-layout, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+Template: logistic
+*/
+
+@import url("../logistic/style.css");

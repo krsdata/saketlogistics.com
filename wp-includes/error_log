@@ -1,0 +1,8 @@
+[21-Jun-2018 02:18:53 Asia/Calcutta] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/saketlogistics/public_html/wp-includes/rss-functions.php on line 8
+[25-Jun-2018 22:58:40 Asia/Calcutta] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/saketlogistics/public_html/wp-includes/rss-functions.php on line 8
+[22-Jul-2018 20:53:48 Asia/Calcutta] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/saketlogistics/public_html/wp-includes/rss-functions.php on line 8
+[24-Jul-2018 17:19:29 Asia/Calcutta] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/saketlogistics/public_html/wp-includes/rss-functions.php on line 8
+[08-Aug-2018 06:28:48 Asia/Calcutta] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/saketlogistics/public_html/wp-includes/rss-functions.php on line 8
+[21-Aug-2018 11:26:43 Asia/Calcutta] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/saketlogistics/public_html/wp-includes/locale.php on line 10
+[11-Sep-2018 22:29:04 Asia/Calcutta] PHP Fatal error:  Class 'Walker' not found in /home/saketlogistics/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[14-Sep-2018 05:57:36 Asia/Calcutta] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/saketlogistics/public_html/wp-includes/rss-functions.php on line 8

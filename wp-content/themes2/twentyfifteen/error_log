@@ -1,0 +1,9 @@
+[03-Nov-2017 09:53:44 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/saketlogistics/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
+[03-Nov-2017 09:53:44 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/saketlogistics/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
+[25-Nov-2017 20:53:54 UTC] PHP Fatal error:  Call to undefined function _e() in /home/saketlogistics/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[25-Nov-2017 20:54:37 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/saketlogistics/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[25-Nov-2017 20:56:11 UTC] PHP Fatal error:  Call to undefined function _e() in /home/saketlogistics/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[25-Nov-2017 20:57:26 UTC] PHP Fatal error:  Call to undefined function do_action() in /home/saketlogistics/public_html/wp-content/themes/twentyfifteen/footer.php on line 23
+[16-Dec-2017 00:29:42 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/saketlogistics/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[16-Dec-2017 00:29:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/saketlogistics/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[11-Feb-2018 04:16:29 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/saketlogistics/public_html/wp-content/themes/twentyfifteen/404.php on line 10

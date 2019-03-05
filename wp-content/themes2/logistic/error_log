@@ -1,0 +1,7 @@
+[16-Sep-2017 07:35:12 UTC] PHP Fatal error:  Call to undefined function ozy_get_option() in /home/saketlogistics/public_html/wp-content/themes/logistic/404.php on line 3
+[16-Sep-2017 07:35:12 UTC] PHP Fatal error:  Call to undefined function ozy_get_option() in /home/saketlogistics/public_html/wp-content/themes/logistic/404.php on line 3
+[26-Sep-2017 06:44:07 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/saketlogistics/public_html/wp-content/themes/logistic/archive.php on line 2
+[26-Sep-2017 06:44:07 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/saketlogistics/public_html/wp-content/themes/logistic/archive.php on line 2
+[30-Sep-2017 04:56:22 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/saketlogistics/public_html/wp-content/themes/logistic/header.php on line 2
+[14-Nov-2017 21:12:34 UTC] PHP Fatal error:  Call to undefined function ozy_get_option() in /home/saketlogistics/public_html/wp-content/themes/logistic/404.php on line 3
+[15-Nov-2017 15:54:24 UTC] PHP Fatal error:  Call to undefined function ozy_get_option() in /home/saketlogistics/public_html/wp-content/themes/logistic/404.php on line 3
